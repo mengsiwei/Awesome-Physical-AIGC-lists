@@ -42,11 +42,14 @@ If you believe there are additional works that should be included in our list, p
 
 ### AIGC Surveys
 \[arXiv 2023\] A comprehensive survey of ai-generated content (AIGC): A history of generative ai from GAN to ChatGPT [Paper](https://arxiv.org/abs/2303.04226)
+
 \[arxiv 2024\] Advances in 3D generation: A survey [Paper](https://arxiv.org/abs/2401.17807)
+
 \[arxiv 2024\] A comprehensive survey on 3D content generation [Paper](https://arxiv.org/abs/2402.01166)
 
 ### Physical Aware AIGC Surveys
 \[ACM COMPUT SURV 2025\] Physics-informed computer vision: A review and perspectives [Paper](https://arxiv.org/abs/2305.18035)
+
 \[arXiv 2025\] Generative physical ai in vision: A survey [Paper](https://arxiv.org/abs/2501.10928)
 
 ---
