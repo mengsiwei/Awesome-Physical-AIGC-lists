@@ -65,13 +65,17 @@ If you believe there are additional works that should be included in our list, p
 ---
 ## Dynamic 3D Generation
 ### Vision-based Dynamic 3D Generation
-1. \[CVPR 2024\] Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection [Paper](https://arxiv.org/abs/2312.10461)
-2. \[CVPR 2024\] LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection [Paper](https://arxiv.org/abs/2401.13856)
-3. \[arXiv 2024\] Data-Independent Operator: A Training-Free Artifact Representation Extractor for Generalizable Deepfake Detection [Paper](https://arxiv.org/abs/2403.06803)
-4. \[arXiv 2024\] A Single Simple Patch is All You Need for AI-generated Image Detection [Paper](https://arxiv.org/abs/2402.01123)
+1. \[CVPR 2024\] Generative Image Dynamics [Paper](https://arxiv.org/abs/2309.07906) [Project](https://generative-dynamics.github.io/)
+2. \[NeurIPS 2024\] MotionCraft: Physics-based Zero-Shot Video Generation [Paper](https://arxiv.org/abs/2401.13856) [Project](https://mezzelfo.github.io/MotionCraft/)
+3. \[RAL 2023\] Physics 101: Learning Physical Object Properties from Unlabeled Videos [Paper](http://phys101.csail.mit.edu/papers/phys101_bmvc.pdf) [Project](http://phys101.csail.mit.edu/)
+4. \[ECCV 2024\] PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation [Paper](https://arxiv.org/pdf/2409.18964) [Project](https://github.com/stevenlsw/physgen)
+5. \[CVPR 2025\] PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation [Paper](https://arxiv.org/abs/2412.00596) [Project](https://github.com/pittisl/PhyT2V)
 ### NeRF-based Dynamic 3D Generation
-1. \[arXiv 2025\] GC-ConsFlow: Leveraging Optical Flow Residuals and Global Context for Robust Deepfake Detection [Paper](https://arxiv.org/pdf/2501.13435)
+1. \[WACV 2024\] ParticleNeRF: A Particle-Based Encoding for Online Neural Radiance Fields [Paper](https://arxiv.org/abs/2211.04041) [Project](https://github.com/jc211/ParticleNeRF)
+2. 
 ### GS-based Dynamic 3D Generation
+1. \[ECCV 2024\] Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians [Paper](https://arxiv.org/abs/2403.09434) [Project](https://github.com/Colmar-zlicheng/Spring-Gaus)
+2. 
 
 ---
 ## 4D Generation
