@@ -72,21 +72,35 @@ If you believe there are additional works that should be included in our list, p
 5. \[CVPR 2025\] PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation [Paper](https://arxiv.org/abs/2412.00596) [Project](https://github.com/pittisl/PhyT2V)
 ### NeRF-based Dynamic 3D Generation
 1. \[WACV 2024\] ParticleNeRF: A Particle-Based Encoding for Online Neural Radiance Fields [Paper](https://arxiv.org/abs/2211.04041) [Project](https://github.com/jc211/ParticleNeRF)
-2. 
+2. \[ICLR 2023\] PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification [Paper](https://arxiv.org/abs/2303.05512) [Project](https://github.com/xuan-li/PAC-NeRF)
+3. \[CVPR 2024\] Improving Physics-Augmented Continuum Neural Radiance Field-Based Geometry-Agnostic System Identification with Lagrangian Particle Optimization [Paper](https://arxiv.org/abs/2406.04155)
+4. \[CVPR 2024\] PIE-NeRF: Physics-based Interactive Elastodynamics with NeRF [Paper](https://arxiv.org/abs/2311.13099) [Project](https://fytalon.github.io/pienerf/)
 ### GS-based Dynamic 3D Generation
 1. \[ECCV 2024\] Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians [Paper](https://arxiv.org/abs/2403.09434) [Project](https://github.com/Colmar-zlicheng/Spring-Gaus)
-2. 
+2. \[ECCV 2024\] PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation [Paper](https://arxiv.org/abs/2404.13026) [Project](https://physdreamer.github.io/)
+3. \[arXiv 2024\] Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion [Paper](https://arxiv.org/abs/2406.04338) [Project](https://liuff19.github.io/Physics3D/)
+4. \[arXiv 2024\] PhysMotion: Physics-Grounded Dynamics From a Single Image [Paper](https://arxiv.org/abs/2411.17189) [Project](https://supertan0204.github.io/physmotion_website/)
+5. \[arXiv 2024\] Gaussian Splashing: Unified Particles for Versatile Motion Synthesis and Rendering [Paper](https://arxiv.org/abs/2401.15318)
+6. \[arXiv 2024\] Gaussian Splashing: Direct Volumetric Rendering Underwater [Paper](https://arxiv.org/abs/2411.19588)
+7. \[AAAI 2025\] DreamPhysics: Learning Physics-Based 3D Dynamics with Video Diffusion Priors [Paper](https://arxiv.org/abs/2406.01476) [Project](https://github.com/tyhuang0428/DreamPhysics)
+8. \[CVPR 2024\] PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics [Paper](https://arxiv.org/abs/2311.12198) [Project](https://xpandora.github.io/PhysGaussian/)
+9. \[ICLR 2025\] OmniPhysGS: 3D Constitutive Gaussians for General Physics-Based Dynamics Generation [Paper](https://arxiv.org/abs/2501.18982) [Project](https://wgsxm.github.io/projects/omniphysgs/)
+10. \[NeurIPS 2024\] NeuMA: Neural Material Adaptor for Visual Grounding of Intrinsic Dynamics [Paper](https://arxiv.org/abs/2410.08257) [Project](https://xjay18.github.io/projects/neuma.html)
+11. \[NeurIPS 2024\] Gaussian-Informed Continuum for Physical Property Identification and Simulation [Paper](https://arxiv.org/pdf/2406.14927) [Project](https://jukgei.github.io/project/gic/)
 
 ---
 ## 4D Generation
-1. \[arXiv 2025\] GC-ConsFlow: Leveraging Optical Flow Residuals and Global Context for Robust Deepfake Detection [Paper](https://arxiv.org/pdf/2501.13435)
-2. \[ICASSP 2025\] AUDIO-VISUAL DEEPFAKEDETECTIONWITHLOCALTEMPORALINCONSISTENCIES [Paper](https://arxiv.org/pdf/2501.08137)
-3. \[arXiv 2025\] Vulnerability-Aware Spatio-Temporal Learning for Generalizable and Interpretable Deepfake Video Detection [Paper](https://arxiv.org/pdf/2501.01184)
+1. \[arXiv 2024\] Phy124: Fast Physics-Driven 4D Content Generation from a Single Image [Paper](https://arxiv.org/pdf/2409.07179)
+2. \[arXiv 2024\] GASP: Gaussian Splatting for Physic-Based Simulations [Paper](https://arxiv.org/abs/2409.05819) [Project](https://waczjoan.github.io/GASP/)
+3. \[arXiv 2024\] Phys4DGen: A Physics-Driven Framework for Controllable and Efficient 4D Content Generation from a Single Image [Paper](https://arxiv.org/abs/2411.16800) [Project](https://github.com/JiajingLin/Phys4DGen)
+4. \[arXiv 2024\] Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis [Paper](https://arxiv.org/abs/2410.07155)
+5. \[arXiv 2024\] Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation [Paper](https://arxiv.org/abs/2411.14423)
+6. \[ICLR 2025\] Compositional 4D Dynamic Scenes Understanding with Physics Priors for Video Question Answering [Paper](https://arxiv.org/abs/2406.00622)
 
 ---
 ## Others
 ### Segmentation
-1. \[CVPR 2024\] Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection [Paper](https://arxiv.org/abs/2312.10461)
+1. \[arXiv 2024\] Phy124: Fast Physics-Driven 4D Content Generation from a Single Image [Paper](https://arxiv.org/abs/2409.07179)
 2. \[CVPR 2024\] LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection [Paper](https://arxiv.org/abs/2401.13856)
 3. \[arXiv 2024\] Data-Independent Operator: A Training-Free Artifact Representation Extractor for Generalizable Deepfake Detection [Paper](https://arxiv.org/abs/2403.06803)
 4. \[arXiv 2024\] A Single Simple Patch is All You Need for AI-generated Image Detection [Paper](https://arxiv.org/abs/2402.01123)
