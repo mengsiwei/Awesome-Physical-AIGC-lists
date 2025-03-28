@@ -48,6 +48,8 @@ If you believe there are additional works that should be included in our list, p
 \[arxiv 2024\] A comprehensive survey on 3D content generation [Paper](https://arxiv.org/abs/2402.01166)
 
 ### Physical Aware AIGC Surveys
+\[arXiv 2025\] Exploring the Evolution of Physics Cognition in Video Generation: A Survey [Paper](https://arxiv.org/pdf/2503.21765)
+
 \[ACM COMPUT SURV 2025\] Physics-informed computer vision: A review and perspectives [Paper](https://arxiv.org/abs/2305.18035)
 
 \[arXiv 2025\] Generative physical ai in vision: A survey [Paper](https://arxiv.org/abs/2501.10928)
