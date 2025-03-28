@@ -106,3 +106,5 @@ If you believe there are additional works that should be included in our list, p
 ### Recognition
 
 ### Editing
+### Fluids
+1. \[arXiv 2025\] RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting [Paper](https://arxiv.org/pdf/2503.21442)
