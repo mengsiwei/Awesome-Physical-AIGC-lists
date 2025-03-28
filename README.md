@@ -108,3 +108,4 @@ If you believe there are additional works that should be included in our list, p
 ### Editing
 ### Fluids
 1. \[arXiv 2025\] RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting [Paper](https://arxiv.org/pdf/2503.21442)
+2. \[arXiv 2025\] Vid2Fluid: 3D Dynamic Fluid Assets from Single-View Videos with Generative Gaussian Splatting [Paper](https://arxiv.org/pdf/2503.00868)
