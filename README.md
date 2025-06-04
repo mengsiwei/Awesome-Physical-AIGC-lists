@@ -41,18 +41,30 @@ If you believe there are additional works that should be included in our list, p
 ## Relevant Surveys
 
 ### AIGC Surveys
-\[arXiv 2023\] A comprehensive survey of ai-generated content (AIGC): A history of generative ai from GAN to ChatGPT [Paper](https://arxiv.org/abs/2303.04226)
-
-\[arxiv 2024\] Advances in 3D generation: A survey [Paper](https://arxiv.org/abs/2401.17807)
-
-\[arxiv 2024\] A comprehensive survey on 3D content generation [Paper](https://arxiv.org/abs/2402.01166)
-
+1. \[arXiv 2023\] A comprehensive survey of ai-generated content (AIGC): A history of generative ai from GAN to ChatGPT [Paper](https://arxiv.org/abs/2303.04226)
+2. \[arxiv 2024\] Advances in 3D generation: A survey [Paper](https://arxiv.org/abs/2401.17807)
+3. \[arxiv 2024\] A comprehensive survey on 3D content generation [Paper](https://arxiv.org/abs/2402.01166)
+4. \[arxiv 2025\] Advances in 4D Generation: A Survey [Paper](https://arxiv.org/abs/2503.14501)
 ### Physical Aware AIGC Surveys
-\[arXiv 2025\] Exploring the Evolution of Physics Cognition in Video Generation: A Survey [Paper](https://arxiv.org/pdf/2503.21765)
+1. \[arXiv 2025\] Exploring the Evolution of Physics Cognition in Video Generation: A Survey [Paper](https://arxiv.org/pdf/2503.21765)
+2. \[ACM COMPUT SURV 2025\] Physics-informed computer vision: A review and perspectives [Paper](https://arxiv.org/abs/2305.18035)
+3. \[arXiv 2025\] Generative physical ai in vision: A survey [Paper](https://arxiv.org/abs/2501.10928)
+4. \[IJCAI 2025\] Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC [Paper](https://arxiv.org/abs/2502.07007)
+5. \[arXiv 2025\] Exploring the Evolution of Physics Cognition in Video Generation: A Survey [Paper](https://arxiv.org/abs/2503.21765)
 
-\[ACM COMPUT SURV 2025\] Physics-informed computer vision: A review and perspectives [Paper](https://arxiv.org/abs/2305.18035)
 
-\[arXiv 2025\] Generative physical ai in vision: A survey [Paper](https://arxiv.org/abs/2501.10928)
+---
+## Datasets
+
+### Synthetic Datasets
+1. \[PAC-NeRF\] PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification [Paper](https://arxiv.org/abs/2303.05512) [Project](https://github.com/xuan-li/PAC-NeRF)
+2. \[Spring-Gaus\] Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians [Paper](https://arxiv.org/abs/2403.09434) [Project](https://github.com/Colmar-zlicheng/Spring-Gaus)
+### Real-world Datasets
+1. \[VIDEOPHY\] VIDEOPHY: Evaluating Physical Commonsense for Video Generation [Paper](https://arxiv.org/pdf/2406.03520) [Project](https://github.com/Hritikbansal/videophy)
+2. \[Physics 101\] Physics 101: Learning Physical Object Properties from Unlabeled Videos [Paper](http://phys101.csail.mit.edu/papers/phys101_bmvc.pdf) [Project](http://phys101.csail.mit.edu/)
+3. \[Physics IQ Benchmark\] Physics IQ Benchmark: Do generative video models understand physical principles? [Paper](https://arxiv.org/abs/2501.09038) [Project](https://physics-iq.github.io/)
+4. \[WISA-80K\] WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation [Paper](https://arxiv.org/pdf/2503.08153) [Project](https://360cvgroup.github.io/WISA/)
+
 
 ---
 ## Static 3D Generation
@@ -89,6 +101,9 @@ If you believe there are additional works that should be included in our list, p
 9. \[ICLR 2025\] OmniPhysGS: 3D Constitutive Gaussians for General Physics-Based Dynamics Generation [Paper](https://arxiv.org/abs/2501.18982) [Project](https://wgsxm.github.io/projects/omniphysgs/)
 10. \[NeurIPS 2024\] NeuMA: Neural Material Adaptor for Visual Grounding of Intrinsic Dynamics [Paper](https://arxiv.org/abs/2410.08257) [Project](https://xjay18.github.io/projects/neuma.html)
 11. \[NeurIPS 2024\] Gaussian-Informed Continuum for Physical Property Identification and Simulation [Paper](https://arxiv.org/pdf/2406.14927) [Project](https://jukgei.github.io/project/gic/)
+12. \[arXiv 2025\] MAGIC: Motion-Aware Generative Inference via Confidence-Guided LLM [Paper](https://arxiv.org/pdf/2505.16456)
+13. \[arXiv 2025\] ParticleGS: Particle-Based Dynamics Modeling of 3D Gaussians for Prior-free Motion Extrapolation [Paper](https://arxiv.org/pdf2505.20270) [Project](https://github.com/QuanJinSheng/ParticleGS)
+
 
 ---
 ## 4D Generation
@@ -99,13 +114,9 @@ If you believe there are additional works that should be included in our list, p
 5. \[arXiv 2024\] Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation [Paper](https://arxiv.org/abs/2411.14423)
 6. \[ICLR 2025\] Compositional 4D Dynamic Scenes Understanding with Physics Priors for Video Question Answering [Paper](https://arxiv.org/abs/2406.00622)
 
+
 ---
 ## Others
-### Segmentation
-
-### Recognition
-
-### Editing
 ### Fluids
 1. \[arXiv 2025\] RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting [Paper](https://arxiv.org/pdf/2503.21442)
 2. \[arXiv 2025\] Vid2Fluid: 3D Dynamic Fluid Assets from Single-View Videos with Generative Gaussian Splatting [Paper](https://arxiv.org/pdf/2503.00868)
