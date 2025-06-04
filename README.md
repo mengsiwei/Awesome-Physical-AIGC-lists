@@ -69,7 +69,7 @@ If you believe there are additional works that should be included in our list, p
 
 ---
 ## Static 3D Generation
-### Single image-based 3D Generation
+### Single Image-based 3D Generation
 1. \[NeurIPS 2024\] Physically Compatible 3D Object Modeling from a Single Image [Paper](https://arxiv.org/abs/2405.20510)
 2. \[NeurIPS 2024\] PhyCAGE: Physically Plausible Compositional 3D Asset Generation from a Single Image [Paper](https://arxiv.org/abs/2411.18548)
 ### Text-based 3D Generation
