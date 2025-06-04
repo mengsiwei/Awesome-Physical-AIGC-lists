@@ -29,7 +29,7 @@ If you believe there are additional works that should be included in our list, p
      - [Synthetic Datasets](#synthetic-datasets)
      - [Real-world Datasets](#real-world-datasets)
 - [Static 3D Generation](#static-3d-generation)
-     - [Single image-based 3D Generation](#single-image-based-3d-generation)
+     - [Single Image-based 3D Generation](#single-image-based-3d-generation)
      - [Text-based 3D Generation](#text-based-3d-generation)
 - [Dynamic 3D Generation](#dynamic-3d-generation)
      - [Vision-based Dynamic 3D Generation](#vison-based-dynamic-3d-generation)
