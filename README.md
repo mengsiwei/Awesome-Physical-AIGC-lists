@@ -25,6 +25,9 @@ If you believe there are additional works that should be included in our list, p
 - [Relevant Surveys](#relevant-surveys)
      - [AIGC Surveys](#aigc-surveys)
      - [Physical Aware AIGC Surveys](#physical-aware-aigc-surveys)
+- [Datasets](#datasets)
+     - [Synthetic Datasets](#synthetic-datasets)
+     - [Real-world Datasets](#real-world-datasets)
 - [Static 3D Generation](#static-3d-generation)
      - [Single image-based 3D Generation](#single-image-based-3d-generation)
      - [Text-based 3D Generation](#text-based-3d-generation)
@@ -34,9 +37,7 @@ If you believe there are additional works that should be included in our list, p
      - [GS-based Dynamic 3D Generation](#gs-based-dynamic-3d-generation)
 - [4D Generation](#4d-generation)
 - [Others](#others)
-     - [Segmentation](#segmentation)
-     - [Recognition](#recognition)
-     - [Editing](#editing)
+     - [Fluids](#fluids)
 ---
 ## Relevant Surveys
 
