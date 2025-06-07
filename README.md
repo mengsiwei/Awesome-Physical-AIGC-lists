@@ -22,7 +22,7 @@ If you believe there are additional works that should be included in our list, p
 
 ### News
 - Our work **"Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC"** [[arXiv](https://arxiv.org/abs/2502.07007)] has been accepted by **IJCAI 2025 Survey Track**. The final version will be released soon.
-- Another work **"MAGIC: Motion-Aware Generative Inference via Confidence-Guided LLM"** [[arXiv](https://arxiv.org/pdf/2505.16456)] is currently under review.
+- Another work **"MAGIC: Motion-Aware Generative Inference via Confidence-Guided LLM"** [[arXiv](https://arxiv.org/pdf/2505.16456)] is currently posted online.
 
 
 ## Content
