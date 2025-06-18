@@ -77,8 +77,8 @@ If you believe there are additional works that should be included in our list, p
 ### Single Image-based 3D Generation
 1. \[NeurIPS 2024\] Physically Compatible 3D Object Modeling from a Single Image [Paper](https://arxiv.org/abs/2405.20510)
 2. \[NeurIPS 2024\] PhyCAGE: Physically Plausible Compositional 3D Asset Generation from a Single Image [Paper](https://arxiv.org/abs/2411.18548)
-3. \[ArXiv] DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness [Paper](https://ruiningli.com/dso)
-
+3. \[arXiv 2025\] DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness [Paper](https://ruiningli.com/dso)
+4. \[arXiv 2025\] LLM-to-Phy3D: Physically Conform Online 3D Object Generation with LLMs [Paper](https://arxiv.org/pdf/2506.11148)
 ### Text-based 3D Generation
 1. \[arXiv 2024\] Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication [Paper](https://arxiv.org/abs/2405.18515)
 2. \[arXiv 2025\] PhiP-G: Physics-Guided Text-to-3D Compositional Scene Generation [Paper](https://arxiv.org/abs/2502.00708)
