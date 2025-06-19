@@ -111,6 +111,7 @@ If you believe there are additional works that should be included in our list, p
 11. \[NeurIPS 2024\] Gaussian-Informed Continuum for Physical Property Identification and Simulation [Paper](https://arxiv.org/pdf/2406.14927) [Project](https://jukgei.github.io/project/gic/)
 12. \[arXiv 2025\] MAGIC: Motion-Aware Generative Inference via Confidence-Guided LLM [Paper](https://arxiv.org/pdf/2505.16456)
 13. \[arXiv 2025\] ParticleGS: Particle-Based Dynamics Modeling of 3D Gaussians for Prior-free Motion Extrapolation [Paper](https://arxiv.org/pdf2505.20270) [Project](https://github.com/QuanJinSheng/ParticleGS)
+14 \[arXiv 2025\] PIG: Physically-based Multi-Material Interaction with 3D Gaussians [Paper](https://arxiv.org/pdf/2506.07657)
 
 
 ---
