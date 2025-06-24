@@ -41,6 +41,7 @@ If you believe there are additional works that should be included in our list, p
      - [NeRF-based Dynamic 3D Generation](#nerf-based-dynamic-3d-generation)
      - [GS-based Dynamic 3D Generation](#gs-based-dynamic-3d-generation)
 - [4D Generation](#4d-generation)
+- [Video Generation](#video-generation)
 - [Others](#others)
      - [Fluids](#fluids)
 ---
@@ -122,6 +123,13 @@ If you believe there are additional works that should be included in our list, p
 4. \[arXiv 2024\] Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis [Paper](https://arxiv.org/abs/2410.07155)
 5. \[arXiv 2024\] Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation [Paper](https://arxiv.org/abs/2411.14423)
 6. \[ICLR 2025\] Compositional 4D Dynamic Scenes Understanding with Physics Priors for Video Question Answering [Paper](https://arxiv.org/abs/2406.00622)
+
+
+---
+## Video Generation
+1. \[arXiv 2025\] WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation [Paper](https://arxiv.org/abs/2503.08153)
+2. \[arXiv 2025\] Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation [Paper](https://arxiv.org/abs/2505.21653)
+3. \[CVPR 2025\] PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation [Paper](https://arxiv.org/abs/2412.00596)
 
 
 ---
