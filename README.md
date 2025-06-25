@@ -72,7 +72,10 @@ If you believe there are additional works that should be included in our list, p
 3. \[Physics IQ Benchmark\] Physics IQ Benchmark: Do generative video models understand physical principles? [Paper](https://arxiv.org/abs/2501.09038) [Project](https://physics-iq.github.io/)
 4. \[WISA-80K\] WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation [Paper](https://arxiv.org/pdf/2503.08153) [Project](https://360cvgroup.github.io/WISA/)
 
+---
+## Benchmark
 
+1. \[PhysUniBench\] PhysUniBench: An Undergraduate-Level Physics Reasoning Benchmark for Multimodal Models[Paper](https://arxiv.org/abs/2506.17667) [Project](https://prismax-team.github.io/PhysUniBenchmark/)
 ---
 ## Static 3D Generation
 ### Single Image-based 3D Generation
