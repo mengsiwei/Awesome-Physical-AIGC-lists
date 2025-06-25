@@ -33,6 +33,7 @@ If you believe there are additional works that should be included in our list, p
 - [Datasets](#datasets)
      - [Synthetic Datasets](#synthetic-datasets)
      - [Real-world Datasets](#real-world-datasets)
+- [Benchmark](#benchmark)
 - [Static 3D Generation](#static-3d-generation)
      - [Single Image-based 3D Generation](#single-image-based-3d-generation)
      - [Text-based 3D Generation](#text-based-3d-generation)
