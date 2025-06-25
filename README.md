@@ -70,14 +70,14 @@ If you believe there are additional works that should be included in our list, p
 ### Real-world Datasets
 1. \[VIDEOPHY\] VIDEOPHY: Evaluating Physical Commonsense for Video Generation [Paper](https://arxiv.org/pdf/2406.03520) [Project](https://github.com/Hritikbansal/videophy)
 2. \[Physics 101\] Physics 101: Learning Physical Object Properties from Unlabeled Videos [Paper](http://phys101.csail.mit.edu/papers/phys101_bmvc.pdf) [Project](http://phys101.csail.mit.edu/)
-3. \[Physics IQ Benchmark\] Physics IQ Benchmark: Do generative video models understand physical principles? [Paper](https://arxiv.org/abs/2501.09038) [Project](https://physics-iq.github.io/)
-4. \[WISA-80K\] WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation [Paper](https://arxiv.org/pdf/2503.08153) [Project](https://360cvgroup.github.io/WISA/)
+3. \[WISA-80K\] WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation [Paper](https://arxiv.org/pdf/2503.08153) [Project](https://360cvgroup.github.io/WISA/)
 
 ---
 ## Benchmark
 
 1. \[PhysUniBench\] PhysUniBench: An Undergraduate-Level Physics Reasoning Benchmark for Multimodal Models [Paper](https://arxiv.org/abs/2506.17667) [Project](https://prismax-team.github.io/PhysUniBenchmark/)
 2. \[UGPhysics\] UGPhysics: A Comprehensive Benchmark for Undergraduate Physics Reasoning with Large Language Models [Paper](https://arxiv.org/abs/2502.00334) [Code](https://github.com/YangLabHKUST/UGPhysics)
+3. \[Physics IQ Benchmark\] Physics IQ Benchmark: Do generative video models understand physical principles? [Paper](https://arxiv.org/abs/2501.09038) [Project](https://physics-iq.github.io/)
 ---
 ## Static 3D Generation
 ### Single Image-based 3D Generation
