@@ -143,3 +143,4 @@ If you believe there are additional works that should be included in our list, p
 1. \[arXiv 2025\] RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting [Paper](https://arxiv.org/pdf/2503.21442)
 2. \[arXiv 2025\] Vid2Fluid: 3D Dynamic Fluid Assets from Single-View Videos with Generative Gaussian Splatting [Paper](https://arxiv.org/pdf/2503.00868)
 3. \[CVPR 2025\] FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video [Paper](https://arxiv.org/abs/2503.04720)
+4. \[arXiv 2025\] RDPO: Real Data Preference Optimization for Physics Consistency Video Generation [Paper](https://arxiv.org/abs/2506.18655)
