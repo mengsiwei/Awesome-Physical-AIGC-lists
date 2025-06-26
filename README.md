@@ -137,6 +137,7 @@ If you believe there are additional works that should be included in our list, p
 2. \[arXiv 2025\] Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation [Paper](https://arxiv.org/abs/2505.21653)
 3. \[CVPR 2025\] PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation [Paper](https://arxiv.org/abs/2412.00596)
 4. \[arXiv 2025\] RDPO: Real Data Preference Optimization for Physics Consistency Video Generation [Paper](https://arxiv.org/abs/2506.18655)
+5. \[arXiv 2025\] VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models [Paper](https://arxiv.org/pdf/2505.23656)
 
 ---
 ## Others
