@@ -140,6 +140,7 @@ If you believe there are additional works that should be included in our list, p
 4. \[arXiv 2025\] RDPO: Real Data Preference Optimization for Physics Consistency Video Generation [Paper](https://arxiv.org/abs/2506.18655)
 5. \[arXiv 2025\] VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models [Paper](https://arxiv.org/pdf/2505.23656)
 6. \[arXiv 2025\] Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond [Paper](https://arxiv.org/abs/2405.03520)
+7. \[arXiv 2025\] Reasoning Physical Video Generation with Diffusion Timestep Tokens via Reinforcement [Paper](https://arxiv.org/pdf/2504.15932?)
 
 ---
 ## Others
