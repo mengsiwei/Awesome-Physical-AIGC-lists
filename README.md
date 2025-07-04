@@ -65,8 +65,9 @@ If you believe there are additional works that should be included in our list, p
 ## Datasets
 
 ### Synthetic Datasets
-1. \[PAC-NeRF\] PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification [Paper](https://arxiv.org/abs/2303.05512) [Project](https://github.com/xuan-li/PAC-NeRF)
-2. \[Spring-Gaus\] Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians [Paper](https://arxiv.org/abs/2403.09434) [Project](https://github.com/Colmar-zlicheng/Spring-Gaus)
+1. \[arXiv 2025\] Synthetic Video Enhances Physical Fidelity in Video Synthesis [Paper](https://arxiv.org/abs/2503.20822) [Project](https://simulation.seaweed.video/)
+2. \[PAC-NeRF\] PAC-NeRF: Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification [Paper](https://arxiv.org/abs/2303.05512) [Project](https://github.com/xuan-li/PAC-NeRF)
+3. \[Spring-Gaus\] Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians [Paper](https://arxiv.org/abs/2403.09434) [Project](https://github.com/Colmar-zlicheng/Spring-Gaus)
 ### Real-world Datasets
 1. \[VIDEOPHY\] VIDEOPHY: Evaluating Physical Commonsense for Video Generation [Paper](https://arxiv.org/pdf/2406.03520) [Project](https://github.com/Hritikbansal/videophy)
 2. \[Physics 101\] Physics 101: Learning Physical Object Properties from Unlabeled Videos [Paper](http://phys101.csail.mit.edu/papers/phys101_bmvc.pdf) [Project](http://phys101.csail.mit.edu/)
