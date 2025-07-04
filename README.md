@@ -76,7 +76,7 @@ If you believe there are additional works that should be included in our list, p
 ---
 ## Benchmark
 
-1. \[PISA|ICML 2025\] PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop [Paper](https://arxiv.org/abs/2503.09595)[Project](https://vision-x-nyu.github.io/pisa-experiments.github.io/)
+1. \[PISA | ICML 2025\] PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop [Paper](https://arxiv.org/abs/2503.09595)[Project](https://vision-x-nyu.github.io/pisa-experiments.github.io/)
 2. \[PhyGenBench\] Towards World Simulator: Crafting Physical Commonsense-Based Benchmark For Video Generation [Paper](https://arxiv.org/pdf/2410.05363) [Project](https://phygenbench123.github.io/)
 3. \[T2VPhysBench\] T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation [Paper](https://arxiv.org/pdf/2505.00337)
 4. \[Physics IQ Benchmark\] Physics IQ Benchmark: Do generative video models understand physical principles? [Paper](https://arxiv.org/abs/2501.09038) [Project](https://physics-iq.github.io/)
