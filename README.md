@@ -142,6 +142,7 @@ If you believe there are additional works that should be included in our list, p
 ### Sim2Real
 1. \[arXiv 2025\] Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals [Paper](https://arxiv.org/abs/2505.19386) [Project](https://github.com/brown-palm/force-prompting)
 2. \[arXiv 2025\] WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation [Paper](https://arxiv.org/abs/2503.08153)
+3. \[arXiv 2025\] Synthetic Video Enhances Physical Fidelity in Video Synthesis [Paper](https://arxiv.org/abs/2503.20822) [Project](https://simulation.seaweed.video/)
 ### Others   
 1. \[arXiv 2025\] Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation [Paper](https://arxiv.org/abs/2505.21653)
 2. \[CVPR 2025\] PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation [Paper](https://arxiv.org/abs/2412.00596)
