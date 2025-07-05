@@ -44,6 +44,7 @@ If you believe there are additional works that should be included in our list, p
 - [4D Generation](#4d-generation)
 - [Video Generation](#video-generation)
     - [Sim2Real](#sim2real)
+    - [Others](#others)
 - [Others](#others)
      - [Fluids](#fluids)
 ---
@@ -141,7 +142,7 @@ If you believe there are additional works that should be included in our list, p
 ### Sim2Real
 1. \[arXiv 2025\] Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals [Paper](https://arxiv.org/abs/2505.19386) [Project](https://github.com/brown-palm/force-prompting)
 2. \[arXiv 2025\] WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation [Paper](https://arxiv.org/abs/2503.08153)
-   
+### Others   
 1. \[arXiv 2025\] Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation [Paper](https://arxiv.org/abs/2505.21653)
 2. \[CVPR 2025\] PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation [Paper](https://arxiv.org/abs/2412.00596)
 3. \[arXiv 2025\] RDPO: Real Data Preference Optimization for Physics Consistency Video Generation [Paper](https://arxiv.org/abs/2506.18655)
