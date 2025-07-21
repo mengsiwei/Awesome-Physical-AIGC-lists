@@ -86,11 +86,13 @@ If you believe there are additional works that should be included in our list, p
 6. \[UGPhysics | ICML 2025\] UGPhysics: A Comprehensive Benchmark for Undergraduate Physics Reasoning with Large Language Models [Paper](https://arxiv.org/abs/2502.00334) [Code](https://github.com/YangLabHKUST/UGPhysics)
 7. \[PhyBench | arXiv 2024\] PhyBench: A Physical Commonsense Benchmark for Evaluating Text-to-Image Models [Paper](https://arxiv.org/pdf/2406.11802)
 8. \[PhysBench | ICLR 2025\] PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding [Paper](https://arxiv.org/abs/2501.16411)
+9. \[PhyWorldBench | arXiv 2025\] PhyWorldBench: A Comprehensive Evaluation of Physical Realism in Text-to-Video Models [Paper](https://arxiv.org/abs/2507.13428)
+
 
 ---
 ## Static 3D Generation
 ### Single Image-based 3D Generation
-1. \[NeurIPS 2024\] Physically Compatible 3D Object Modeling from a Single Image [Paper](https://arxiv.org/abs/2405.20510)
+1. \[PhysComp | NeurIPS 2024\] Physically Compatible 3D Object Modeling from a Single Image [Paper](https://arxiv.org/abs/2405.20510)
 2. \[NeurIPS 2024\] PhyCAGE: Physically Plausible Compositional 3D Asset Generation from a Single Image [Paper](https://arxiv.org/abs/2411.18548)
 3. \[arXiv 2025\] DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness [Paper](https://ruiningli.com/dso)
 4. \[arXiv 2025\] LLM-to-Phy3D: Physically Conform Online 3D Object Generation with LLMs [Paper](https://arxiv.org/pdf/2506.11148)
