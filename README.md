@@ -87,6 +87,11 @@ If you believe there are additional works that should be included in our list, p
 7. \[PhyBench | arXiv 2024\] PhyBench: A Physical Commonsense Benchmark for Evaluating Text-to-Image Models [Paper](https://arxiv.org/pdf/2406.11802)
 8. \[PhysBench | ICLR 2025\] PhysBench: Benchmarking and Enhancing Vision-Language Models for Physical World Understanding [Paper](https://arxiv.org/abs/2501.16411)
 9. \[PhyWorldBench | arXiv 2025\] PhyWorldBench: A Comprehensive Evaluation of Physical Realism in Text-to-Video Models [Paper](https://arxiv.org/abs/2507.13428)
+10. \[PhyDetEx | arXiv 2025\] PhyDetEx: Detecting and Explaining the Physical Plausibility of T2V Models [Paper](https://arxiv.org/abs/2512.01843) [Code](https://github.com/Zeqing-Wang/PhyDetEx?tab=readme-ov-file) [Dataset](https://huggingface.co/datasets/NNaptmn/PhyDetExDatasets)
+11. \[ViRectify | arXiv 2025\] ViRectify: A Challenging Benchmark for Video Reasoning Correction with Multimodal Large Language Models [Paper](https://arxiv.org/abs/2512.01989)
+12. \[PAI-Bench | arXiv 2025\] PAI-Bench: A Comprehensive Benchmark For Physical AI [Paper](https://arxiv.org/abs/2507.13428)
+13. \[VideoPhy | arXiv 2024\] VideoPhy: Evaluating Physical Commonsense for Video Generation [Paper](https://arxiv.org/abs/2406.03520) [Code](https://github.com/Hritikbansal/videophy)
+14. \[VideoPhy-2 | arXiv 2025\] VideoPhy-2: A Challenging Action-Centric Physical Commonsense Evaluation in Video Generation [Paper](https://arxiv.org/abs/2503.06800) [Code](https://github.com/Hritikbansal/videophy/tree/main/VIDEOPHY2)
 
 
 ---
