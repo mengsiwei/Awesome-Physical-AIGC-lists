@@ -43,8 +43,9 @@ If you believe there are additional works that should be included in our list, p
      - [GS-based Dynamic 3D Generation](#gs-based-dynamic-3d-generation)
 - [4D Generation](#4d-generation)
 - [Video Generation](#video-generation)
-    - [Sim2Real](#sim2real)
-    - [Others](#others)
+     - [T2V](#t2v)
+     - [I2V](#i2v)
+     - [Sim2Real](#sim2real)
 - [Others](#others)
      - [Fluids](#fluids)
 ---
@@ -148,18 +149,22 @@ If you believe there are additional works that should be included in our list, p
 
 ---
 ## Video Generation
-### Sim2Real
-1. \[arXiv 2025\] Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals [Paper](https://arxiv.org/abs/2505.19386) [Project](https://github.com/brown-palm/force-prompting)
-2. \[arXiv 2025\] WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation [Paper](https://arxiv.org/abs/2503.08153)
-3. \[arXiv 2025\] Synthetic Video Enhances Physical Fidelity in Video Synthesis [Paper](https://arxiv.org/abs/2503.20822) [Project](https://simulation.seaweed.video/)
-### Others   
-1. \[arXiv 2025\] Physics-Grounded Motion Forecasting via Equation Discovery for Trajectory-Guided Image-to-Video Generation [Paper](https://arxiv.org/pdf/2507.06830)
+### T2V
+1. \[arXiv 2025\] ProPhy: Progressive Physical Alignment for Dynamic World Simulation [Paper](https://arxiv.org/pdf/2512.05564) 
 2. \[arXiv 2025\] Think Before You Diffuse: LLMs-Guided Physics-Aware Video Generation [Paper](https://arxiv.org/abs/2505.21653)
 3. \[CVPR 2025\] PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation [Paper](https://arxiv.org/abs/2412.00596)
 4. \[arXiv 2025\] RDPO: Real Data Preference Optimization for Physics Consistency Video Generation [Paper](https://arxiv.org/abs/2506.18655)
 5. \[arXiv 2025\] VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models [Paper](https://arxiv.org/pdf/2505.23656)
 6. \[arXiv 2025\] Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond [Paper](https://arxiv.org/abs/2405.03520)
 7. \[arXiv 2025\] Reasoning Physical Video Generation with Diffusion Timestep Tokens via Reinforcement [Paper](https://arxiv.org/pdf/2504.15932?)
+
+### I2V
+1. \[arXiv 2025\] Physics-Grounded Motion Forecasting via Equation Discovery for Trajectory-Guided Image-to-Video Generation [Paper](https://arxiv.org/pdf/2507.06830)
+
+### Sim2Real
+1. \[arXiv 2025\] Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals [Paper](https://arxiv.org/abs/2505.19386) [Project](https://github.com/brown-palm/force-prompting)
+2. \[arXiv 2025\] WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation [Paper](https://arxiv.org/abs/2503.08153)
+3. \[arXiv 2025\] Synthetic Video Enhances Physical Fidelity in Video Synthesis [Paper](https://arxiv.org/abs/2503.20822) [Project](https://simulation.seaweed.video/)
 
 ---
 ## Others
