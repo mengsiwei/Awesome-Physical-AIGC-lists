@@ -46,6 +46,7 @@ If you believe there are additional works that should be included in our list, p
      - [T2V](#t2v)
      - [I2V](#i2v)
      - [Sim2Real](#sim2real)
+- [Reasoning](#physical-reasoning-in-vlm)
 - [Others](#others)
      - [Fluids](#fluids)
 ---
@@ -59,9 +60,10 @@ If you believe there are additional works that should be included in our list, p
 ### Physical Aware AIGC Surveys
 1. \[arXiv 2025\] Exploring the Evolution of Physics Cognition in Video Generation: A Survey [Paper](https://arxiv.org/pdf/2503.21765)
 2. \[ACM COMPUT SURV 2025\] Physics-informed computer vision: A review and perspectives [Paper](https://arxiv.org/abs/2305.18035)
-3. \[arXiv 2025\] Generative physical ai in vision: A survey [Paper](https://arxiv.org/abs/2501.10928)
+3. \[arXiv 2025\] Generative physical AI in vision: A survey [Paper](https://arxiv.org/abs/2501.10928)
 4. \[IJCAI 2025\] Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC [Paper](https://arxiv.org/abs/2502.07007)
 5. \[arXiv 2025\] Exploring the Evolution of Physics Cognition in Video Generation: A Survey [Paper](https://arxiv.org/abs/2503.21765)
+6. \[arXiv 2025\] Aligning Perception, Reasoning, Modeling and Interaction: A Survey on Physical AI [Paper](https://arxiv.org/abs/2510.04978)
 
 
 ---
@@ -93,6 +95,9 @@ If you believe there are additional works that should be included in our list, p
 12. \[PAI-Bench | arXiv 2025\] PAI-Bench: A Comprehensive Benchmark For Physical AI [Paper](https://arxiv.org/abs/2507.13428)
 13. \[VideoPhy | arXiv 2024\] VideoPhy: Evaluating Physical Commonsense for Video Generation [Paper](https://arxiv.org/abs/2406.03520) [Code](https://github.com/Hritikbansal/videophy)
 14. \[VideoPhy-2 | arXiv 2025\] VideoPhy-2: A Challenging Action-Centric Physical Commonsense Evaluation in Video Generation [Paper](https://arxiv.org/abs/2503.06800) [Code](https://github.com/Hritikbansal/videophy/tree/main/VIDEOPHY2)
+15. \[VideoScience-Bench | arXiv 2025\] Benchmarking Scientific Understanding and Reasoning for Video Generation using VideoScience-Bench [Paper](https://arxiv.org/abs/2512.02942)
+16. \[IntPhys 2 | arXiv 2025\] IntPhys 2: Benchmarking Intuitive Physics Understanding In Complex Synthetic Environments [Paper](https://arxiv.org/abs/2506.09849)
+17. \[PAI-Bench | arXiv 2025\] PAI-Bench: A Comprehensive Benchmark For Physical AI [Paper](https://arxiv.org/abs/2512.01989)
 
 
 ---
@@ -106,6 +111,8 @@ If you believe there are additional works that should be included in our list, p
 1. \[arXiv 2024\] Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication [Paper](https://arxiv.org/abs/2405.18515)
 2. \[arXiv 2025\] PhiP-G: Physics-Guided Text-to-3D Compositional Scene Generation [Paper](https://arxiv.org/abs/2502.00708)
 3. \[arXiv 2025\] LAYOUTDREAMER: Physics-guided Layout for Text-to-3D Compositional Scene Generation [Paper](https://arxiv.org/abs/2502.01949)
+4. \[ICCV 2025 Best Paper\] Generating Physically Stable and Buildable Brick Structures from Text [Paper](https://arxiv.org/abs/2505.05469) [Project](https://avalovelace1.github.io/BrickGPT/)
+
 
 ---
 ## Dynamic 3D Generation
@@ -145,6 +152,7 @@ If you believe there are additional works that should be included in our list, p
 4. \[arXiv 2024\] Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis [Paper](https://arxiv.org/abs/2410.07155)
 5. \[arXiv 2024\] Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation [Paper](https://arxiv.org/abs/2411.14423)
 6. \[ICLR 2025\] Compositional 4D Dynamic Scenes Understanding with Physics Priors for Video Question Answering [Paper](https://arxiv.org/abs/2406.00622)
+7. \[arXiv 2025\] Motion4D: Learning 3D-Consistent Motion and Semantics for 4D Scene Understanding [Paper](https://arxiv.org/abs/2512.03601)
 
 
 ---
@@ -157,14 +165,34 @@ If you believe there are additional works that should be included in our list, p
 5. \[arXiv 2025\] VideoREPA: Learning Physics for Video Generation through Relational Alignment with Foundation Models [Paper](https://arxiv.org/pdf/2505.23656)
 6. \[arXiv 2025\] Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond [Paper](https://arxiv.org/abs/2405.03520)
 7. \[arXiv 2025\] Reasoning Physical Video Generation with Diffusion Timestep Tokens via Reinforcement [Paper](https://arxiv.org/pdf/2504.15932?)
+8. \[arXiv 2025\] Enhancing Physical Plausibility in Video Generation by Reasoning the Implausibility [Paper](https://arxiv.org/abs/2509.24702)
+9. \[PhysHPO | arXiv 2025\] Hierarchical Fine-grained Preference Optimization for Physically Plausible Video Generation [Paper](https://arxiv.org/abs/2508.10858)
+10. \[PhysCorr | arXiv 2025\] PhysCorr: Dual-Reward DPO for Physics-Constrained Text-to-Video Generation with Automated Preference Selection [Paper](https://arxiv.org/abs/2511.03997)
+
 
 ### I2V
 1. \[arXiv 2025\] Physics-Grounded Motion Forecasting via Equation Discovery for Trajectory-Guided Image-to-Video Generation [Paper](https://arxiv.org/pdf/2507.06830)
+2. \[arXiv 2025\] MIND-V: Hierarchical Video Generation for Long-Horizon Robotic Manipulation with RL-based Physical Alignment [Paper](https://www.arxiv.org/abs/2512.06628)
+3. \[NeurIPS 2025\] PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation [Paper](https://arxiv.org/abs/2509.20358)
+4. \[NeurIPS 2025\] PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning [Paper](https://arxiv.org/abs/2510.13809)
+
 
 ### Sim2Real
 1. \[arXiv 2025\] Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals [Paper](https://arxiv.org/abs/2505.19386) [Project](https://github.com/brown-palm/force-prompting)
 2. \[arXiv 2025\] WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation [Paper](https://arxiv.org/abs/2503.08153)
 3. \[arXiv 2025\] Synthetic Video Enhances Physical Fidelity in Video Synthesis [Paper](https://arxiv.org/abs/2503.20822) [Project](https://simulation.seaweed.video/)
+
+
+---
+## Physical Reasoning in VLM/VDM
+1. \[arXiv 2025\] Bridge Thinking and Acting: Unleashing Physical Potential of VLM with Generalizable Action Expert [Paper](https://arxiv.org/abs/2510.03896)
+2. \[arXiv 2025\] LikePhys: Evaluating Intuitive Physics Understanding in Video Diffusion Models via Likelihood Preference [Paper](https://arxiv.org/abs/2510.11512)
+3. \[arXiv 2025\] FineQuest: Adaptive Knowledge-Assisted Sports Video Understanding via Agent-of-Thoughts Reasoning [Paper](https://arxiv.org/abs/2509.11796)
+4. \[arXiv 2025\] IPR-1: Interactive Physical Reasoner [Paper](https://arxiv.org/abs/2511.15407)
+5. \[arXiv 2025\] PhyDetEx: Detecting and Explaining the Physical Plausibility of T2V Models [Paper](https://arxiv.org/abs/2512.01843)
+6. \[arXiv 2025\] PhysVLM-AVR: Active Visual Reasoning for Multimodal Large Language Models in Physical Environments [Paper](https://arxiv.org/abs/2510.21111)
+7. \[arXiv 2025\] PhyVLLM: Physics-Guided Video Language Model with Motion-Appearance Disentanglement [Paper](https://arxiv.org/abs/2512.04532)
+
 
 ---
 ## Others
@@ -173,3 +201,5 @@ If you believe there are additional works that should be included in our list, p
 2. \[arXiv 2025\] Vid2Fluid: 3D Dynamic Fluid Assets from Single-View Videos with Generative Gaussian Splatting [Paper](https://arxiv.org/pdf/2503.00868)
 3. \[CVPR 2025\] FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video [Paper](https://arxiv.org/abs/2503.04720)
 
+### Audio Generation
+1. \[arXiv 2025\] PAVAS: Physics-Aware Video-to-Audio Synthesis [Paper](https://arxiv.org/abs/2512.08282)
