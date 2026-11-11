@@ -29,6 +29,15 @@ If you know of work that should be listed, or a preprint that has since been acc
 * [2026.11] 🔥 New: [Physical and Semantic DPO](https://arxiv.org/abs/2607.16947) (ACM MM 2026), aligns text-to-video models with physical preferences under semantic constraints.
 * [2025.04] 🔥 Our survey **Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC** has been accepted by the IJCAI 2025 Survey Track.
 
+## Our Work
+
+Our own papers on physics-aware generation. Each one also appears in its category below, marked with ⭐ **Ours**.
+
+- ![IJCAI 2025](https://img.shields.io/badge/IJCAI%202025-1f6feb?style=flat-square) 🔥 **Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC** [[Paper]](https://arxiv.org/abs/2502.07007)<br>Survey of how physical priors enter 3D, 4D and video generation, organized by task and by 3D representation.
+- ![ECCV 2026](https://img.shields.io/badge/ECCV%202026-1f6feb?style=flat-square) 🔥 **PhyMAGIC: Physical Motion-Aware Generative Inference with Confidence-guided VLM** [[Paper]](https://arxiv.org/abs/2505.16456)<br>Generates physically plausible motion from a single image, with a confidence-guided VLM reasoning about the physical process.
+- ![ACM MM 2026](https://img.shields.io/badge/ACM%20MM%202026-1f6feb?style=flat-square) 🔥 **When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation** *(Oral)* [[Paper]](https://arxiv.org/abs/2607.16947)<br>Aligns text-to-video models with physical preferences while keeping prompt semantics, through physical and semantic DPO.
+- ![NeurIPS 2026](https://img.shields.io/badge/NeurIPS%202026-1f6feb?style=flat-square) 🔥 **PhyMetric: Diagnosing Physical Plausibility in Text-to-Video Generation via Scene-Level QA** [[Paper]](https://neurips.cc/virtual/2026/poster/139124)<br>Diagnoses the physical plausibility of text-to-video outputs with scene-level question answering.
+
 ## Scope and Inclusion
 
 - **In scope:** generation whose output must respect physical dynamics or mechanics (motion, forces, materials, contact, fluids), the evaluation of such generation, and analyses of what video and world models know about physics.
@@ -95,7 +104,7 @@ If you know of work that should be listed, or a preprint that has since been acc
 
 ## Surveys
 
-- ![IJCAI 2025](https://img.shields.io/badge/IJCAI%202025-1f6feb?style=flat-square) 🔥 **Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC** [[Paper]](https://arxiv.org/abs/2502.07007)
+- ![IJCAI 2025](https://img.shields.io/badge/IJCAI%202025-1f6feb?style=flat-square) 🔥 **Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC** ⭐ **Ours** [[Paper]](https://arxiv.org/abs/2502.07007)
 - ![ACM CSUR 2024](https://img.shields.io/badge/ACM%20CSUR%202024-1f6feb?style=flat-square) 🔥 **Physics-Informed Computer Vision: A Review and Perspectives** [[Paper]](https://arxiv.org/abs/2305.18035)
 - ![arXiv 2025](https://img.shields.io/badge/arXiv%202025-b31b1b?style=flat-square) 🔥 **Advances in 4D Generation: A Survey** [[Paper]](https://arxiv.org/abs/2503.14501)
 - ![arXiv 2025](https://img.shields.io/badge/arXiv%202025-b31b1b?style=flat-square) 🔥 **Aligning Perception, Reasoning, Modeling and Interaction: A Survey on Physical AI** [[Paper]](https://arxiv.org/abs/2510.04978)
@@ -301,7 +310,7 @@ A language or vision-language model reasons about the physical process (plans, k
 - ![CVPR 2026](https://img.shields.io/badge/CVPR%202026-1f6feb?style=flat-square) 🔥 **Chain of Event-Centric Causal Thought for Physically Plausible Video Generation** [[Paper]](https://arxiv.org/abs/2603.09094)
 - ![CVPR 2026](https://img.shields.io/badge/CVPR%202026-1f6feb?style=flat-square) 🔥 **MoReGen: Multi-Agent Motion-Reasoning Engine for Code-based Text-to-Video Synthesis** [[Paper]](https://arxiv.org/abs/2512.04221)
 - ![ECCV 2026](https://img.shields.io/badge/ECCV%202026-1f6feb?style=flat-square) 🔥 **DeforM: Reasoning-Guided Physics-Aware Video Generation via Spatial-Temporal Masking** [[Paper]](https://arxiv.org/abs/2607.18664)
-- ![ECCV 2026](https://img.shields.io/badge/ECCV%202026-1f6feb?style=flat-square) 🔥 **PhyMAGIC: Physical Motion-Aware Generative Inference with Confidence-guided VLM** [[Paper]](https://arxiv.org/abs/2505.16456)
+- ![ECCV 2026](https://img.shields.io/badge/ECCV%202026-1f6feb?style=flat-square) 🔥 **PhyMAGIC: Physical Motion-Aware Generative Inference with Confidence-guided VLM** ⭐ **Ours** [[Paper]](https://arxiv.org/abs/2505.16456)
 - ![ECCV 2026](https://img.shields.io/badge/ECCV%202026-1f6feb?style=flat-square) 🔥 **PhysRAG: Enhancing Physics-Awareness in Video Generation via Retrieval-Augmented Generation** [[Paper]](https://arxiv.org/abs/2606.26916)
 - ![CVPR 2025](https://img.shields.io/badge/CVPR%202025-1f6feb?style=flat-square) 🔥 **PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation** [[Paper]](https://arxiv.org/abs/2412.00596)
 - ![ICCV 2025](https://img.shields.io/badge/ICCV%202025-1f6feb?style=flat-square) 🔥 **VLIPP: Towards Physically Plausible Video Generation with Vision and Language Informed Physical Prior** [[Paper]](https://arxiv.org/abs/2503.23368)
@@ -360,7 +369,7 @@ Fine-tuning with physics-aware rewards, preference optimization (DPO and variant
 - ![ECCV 2026](https://img.shields.io/badge/ECCV%202026-1f6feb?style=flat-square) 🔥 **SIFT: Self-Imagination Fine-Tuning for Physically Plausible Motion in Video Diffusion Models** [[Paper]](https://arxiv.org/abs/2606.27741)
 - ![NeurIPS 2026](https://img.shields.io/badge/NeurIPS%202026-1f6feb?style=flat-square) 🔥 **PhyMotion: Structured 3D Motion Reward for Physics-Grounded Human Video Generation** [[Paper]](https://neurips.cc/virtual/2026/poster/149085)
 - ![ICML 2026](https://img.shields.io/badge/ICML%202026-1f6feb?style=flat-square) 🔥 **World-R1: Reinforcing 3D Constraints for Text-to-Video Generation** [[Paper]](https://openreview.net/forum?id=lh0I4rB0I5)
-- ![ACM MM 2026](https://img.shields.io/badge/ACM%20MM%202026-1f6feb?style=flat-square) 🔥 **When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation** *(Oral)* [[Paper]](https://arxiv.org/abs/2607.16947)
+- ![ACM MM 2026](https://img.shields.io/badge/ACM%20MM%202026-1f6feb?style=flat-square) 🔥 **When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation** *(Oral)* ⭐ **Ours** [[Paper]](https://arxiv.org/abs/2607.16947)
 - ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-1f6feb?style=flat-square) 🔥 **Hierarchical Fine-grained Preference Optimization for Physically Plausible Video Generation** [[Paper]](https://arxiv.org/abs/2508.10858)
 - ![ICML 2025](https://img.shields.io/badge/ICML%202025-1f6feb?style=flat-square) 🔥 **PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop** [[Paper]](https://arxiv.org/abs/2503.09595)
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **DiReCT: Disentangled Regularization of Contrastive Trajectories for Physics-Refined Video Generation** [[Paper]](https://arxiv.org/abs/2603.25931)
@@ -441,7 +450,7 @@ Benchmarks that test physical commonsense, laws, or consistency of generated ima
 - ![ECCV 2026](https://img.shields.io/badge/ECCV%202026-1f6feb?style=flat-square) 🔥 **Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation** [[Paper]](https://arxiv.org/abs/2606.25306)
 - ![NeurIPS 2026](https://img.shields.io/badge/NeurIPS%202026-1f6feb?style=flat-square) 🔥 **Apple-π: Benchmarking Thinking with Video Towards Law-Grounded Physical Intelligence** [[Paper]](https://neurips.cc/virtual/2026/poster/139053)
 - ![NeurIPS 2026](https://img.shields.io/badge/NeurIPS%202026-1f6feb?style=flat-square) 🔥 **Do Joint Audio-Video Generation Models Understand Physics?** [[Paper]](https://neurips.cc/virtual/2026/poster/139141)
-- ![NeurIPS 2026](https://img.shields.io/badge/NeurIPS%202026-1f6feb?style=flat-square) 🔥 **PhyMetric: Diagnosing Physical Plausibility in Text-to-Video Generation via Scene-Level QA** [[Paper]](https://neurips.cc/virtual/2026/poster/139124)
+- ![NeurIPS 2026](https://img.shields.io/badge/NeurIPS%202026-1f6feb?style=flat-square) 🔥 **PhyMetric: Diagnosing Physical Plausibility in Text-to-Video Generation via Scene-Level QA** ⭐ **Ours** [[Paper]](https://neurips.cc/virtual/2026/poster/139124)
 - ![NeurIPS 2026](https://img.shields.io/badge/NeurIPS%202026-1f6feb?style=flat-square) 🔥 **Principia: Relational Physics Tests for Video Models** [[Paper]](https://neurips.cc/virtual/2026/poster/139457)
 - ![ICLR 2026](https://img.shields.io/badge/ICLR%202026-1f6feb?style=flat-square) 🔥 **PhyWorldBench: A Comprehensive Evaluation of Physical Realism in Text-to-Video Models** *(Oral)* [[Paper]](https://arxiv.org/abs/2507.13428)
 - ![ICLR 2026](https://img.shields.io/badge/ICLR%202026-1f6feb?style=flat-square) 🔥 **VideoPhy-2: A Challenging Action-Centric Physical Commonsense Evaluation in Video Generation** [[Paper]](https://arxiv.org/abs/2503.06800)
