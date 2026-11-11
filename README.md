@@ -2,6 +2,8 @@
 
 A curated list of **physics-aware AI-generated content (AIGC)**: generative models whose outputs (3D assets, 4D scenes, videos, images, audio) must obey physical dynamics, and the benchmarks and analyses that test them. This repository accompanies our IJCAI 2025 survey.
 
+<p align="center"><img src="teaser_1.png" width="100%" alt="Taxonomy of physics-aware AIGC with paper counts per category and venue"></p>
+
 <p align="center">
   <h2 align="center">Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC
   <a href="https://arxiv.org/abs/2502.07007"><img src='https://img.shields.io/badge/arXiv-PDF-red?style=flat&logo=arXiv&logoColor=red' alt='arXiv PDF'></a>
