@@ -717,7 +717,7 @@ Benchmarks that test physical commonsense, laws, or consistency of generated ima
   *Yu Qi, Xinyi Xu, Ziyu Guo, Siyuan Ma, Renrui Zhang, Xinyan Chen, Ruichuan An, Ruofan Xing, Jiayi Zhang, Haojie Huang, Pheng-Ann Heng, Jonathan Tremblay, Lawson L. S. Wong*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PhyGround: Benchmarking Physical Reasoning in Generative World Models** [[Paper]](https://arxiv.org/abs/2605.10806)<br>
   *Juyi Lin, Arash Akbari, Yumei He, Lin Zhao, Haichao Zhang, Arman Akbari, Xingchen Xu, Zoe Y. Lu, Enfu Nan, Hokin Deng, Edmund Yeh, Sarah Ostadabbas, Yun Fu, Jennifer Dy, Pu Zhao, Yanzhi Wang*
-- ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PhyRubric: Rubric-Grounded Diagnostic Evaluation of Physical Commonsense in Text-to-Video Generation** [[Paper]](https://arxiv.org/abs/2611.13576)<br>
+- ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PhyRubric: Rubric-Grounded Diagnostic Evaluation of Physical Commonsense in Text-to-Video Generation** [[Paper]](https://arxiv.org/abs/2611.13576) [[Code]](https://github.com/chenyil6/phyRubric)<br>
   *Huiyi Chen, Weitai Kang, Shicheng Fan, Xinshuo Wang, Zhixiang Shen, Yan Yan, Philip S. Yu, Baoxin Li*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **Physion-Eval: Evaluating Physical Realism in Generated Video via Human Reasoning** [[Paper]](https://arxiv.org/abs/2603.19607)<br>
   *Qin Zhang, Peiyu Jing, Hong-Xing Yu, Fangqiang Ding, Fan Nie, Weimin Wang, Yilun Du, James Zou, Jiajun Wu, Bing Shuai*
