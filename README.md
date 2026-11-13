@@ -23,10 +23,11 @@ If you know of work that should be listed, or a preprint that has since been acc
 
 ## News
 
+* [2026.11] 🏆 Our paper [When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation](https://arxiv.org/abs/2607.16947) (PSDPO) received the **Outstanding Paper Award** at ACM MM 2026 (Multimedia Generative and Foundation Models track).
+* [2026.11] 📌 Added: [K2V: Generative Keyframing For Physically Plausible Video Generation](https://arxiv.org/abs/2611.17324) (arXiv 2026), by Felix O'Mahony, Daniel Olmeda Reino, Roberto Cipolla, Ayush Tewari.
+* [2026.11] 📌 Added: [VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation](https://arxiv.org/abs/2512.11061) (SIGGRAPH Asia 2026), by Felix O'Mahony, Roberto Cipolla, Ayush Tewari.
+* [2026.11] 📌 Added: [Physics-IQ Verified](https://arxiv.org/abs/2606.18943) (arXiv 2026), by Tim Rädsch, Yuki M Asano, Hilde Kuehne, Stefan Bauer, Priyank Jaini, Robert Geirhos, Carsten T. Lüth.
 * [2026.11] 🔥 The list has been reorganized around a new taxonomy and now covers **287** papers, **188** of them published at top venues (2024 to 2026).
-* [2026.11] 🔥 New: [PhyMetric](https://neurips.cc/virtual/2026/poster/139124) (NeurIPS 2026), diagnoses the physical plausibility of text-to-video outputs through scene-level question answering.
-* [2026.11] 🔥 New: [PhyMAGIC](https://arxiv.org/abs/2505.16456) (ECCV 2026), generates physically plausible motion from a single image with confidence-guided VLM reasoning.
-* [2026.11] 🔥 New: [Physical and Semantic DPO](https://arxiv.org/abs/2607.16947) (ACM MM 2026), aligns text-to-video models with physical preferences under semantic constraints.
 * [2025.04] 🔥 Our survey **Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC** has been accepted by the IJCAI 2025 Survey Track.
 
 ## Our Work
@@ -37,7 +38,7 @@ Our own papers on physics-aware generation. Each one also appears in its categor
   *Siwei Meng, Yawei Luo, Ping Liu*<br>Survey of how physical priors enter 3D, 4D and video generation, organized by task and by 3D representation.
 - ![ECCV 2026](https://img.shields.io/badge/ECCV%202026-1f6feb?style=flat-square) 🔥 **PhyMAGIC: Physical Motion-Aware Generative Inference with Confidence-guided VLM** [[Paper]](https://arxiv.org/abs/2505.16456)<br>
   *Siwei Meng, Yawei Luo, Ping Liu*<br>Generates physically plausible motion from a single image, with a confidence-guided VLM reasoning about the physical process.
-- ![ACM MM 2026](https://img.shields.io/badge/ACM%20MM%202026-1f6feb?style=flat-square) 🔥 **When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation** *(Oral)* [[Paper]](https://arxiv.org/abs/2607.16947)<br>
+- ![ACM MM 2026](https://img.shields.io/badge/ACM%20MM%202026-1f6feb?style=flat-square) 🔥 **When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation** *(Oral, Outstanding Paper Award)* [[Paper]](https://arxiv.org/abs/2607.16947)<br>
   *Siwei Meng, Yawei Luo, Shu Zhang, Ping Liu*<br>Aligns text-to-video models with physical preferences while keeping prompt semantics, through physical and semantic DPO.
 - ![NeurIPS 2026](https://img.shields.io/badge/NeurIPS%202026-1f6feb?style=flat-square) 🔥 **PhyMetric: Diagnosing Physical Plausibility in Text-to-Video Generation via Scene-Level QA** [[Paper]](https://neurips.cc/virtual/2026/poster/139124)<br>
   *Siwei Meng, Xuerou Cai, Rui Hu, Ping Liu*<br>Diagnoses the physical plausibility of text-to-video outputs with scene-level question answering.
@@ -564,7 +565,7 @@ Fine-tuning with physics-aware rewards, preference optimization (DPO and variant
   *Yidong Huang, Zun Wang, Han Lin, Dong-Ki Kim, Shayegan Omidshafiei, Jaehong Yoon, Jaemin Cho, Yue Zhang, Mohit Bansal*
 - ![ICML 2026](https://img.shields.io/badge/ICML%202026-1f6feb?style=flat-square) 🔥 **World-R1: Reinforcing 3D Constraints for Text-to-Video Generation** [[Paper]](https://openreview.net/forum?id=lh0I4rB0I5)<br>
   *Weijie Wang, Xiaoxuan He, Youping Gu, Yifan Yang, Zeyu Zhang, Yefei He, Yanbo Ding, Xirui Hu, Donny Y. Chen, Zhiyuan He, Yuqing Yang, Bohan Zhuang*
-- ![ACM MM 2026](https://img.shields.io/badge/ACM%20MM%202026-1f6feb?style=flat-square) 🔥 **When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation** *(Oral)* ⭐ **Ours** [[Paper]](https://arxiv.org/abs/2607.16947)<br>
+- ![ACM MM 2026](https://img.shields.io/badge/ACM%20MM%202026-1f6feb?style=flat-square) 🔥 **When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation** *(Oral, Outstanding Paper Award)* ⭐ **Ours** [[Paper]](https://arxiv.org/abs/2607.16947)<br>
   *Siwei Meng, Yawei Luo, Shu Zhang, Ping Liu*
 - ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-1f6feb?style=flat-square) 🔥 **Hierarchical Fine-grained Preference Optimization for Physically Plausible Video Generation** [[Paper]](https://arxiv.org/abs/2508.10858)<br>
   *Harold Haodong Chen, Haojian Huang, Qifeng Chen, Harry Yang, Ser-Nam Lim*
