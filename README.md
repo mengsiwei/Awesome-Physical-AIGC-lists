@@ -23,7 +23,7 @@ If you know of work that should be listed, or a preprint that has since been acc
 
 ## News
 
-* [2026.11] 🔥 The list has been reorganized around a new taxonomy and now covers **284** papers, **187** of them published at top venues (2024 to 2026).
+* [2026.11] 🔥 The list has been reorganized around a new taxonomy and now covers **287** papers, **188** of them published at top venues (2024 to 2026).
 * [2026.11] 🔥 New: [PhyMetric](https://neurips.cc/virtual/2026/poster/139124) (NeurIPS 2026), diagnoses the physical plausibility of text-to-video outputs through scene-level question answering.
 * [2026.11] 🔥 New: [PhyMAGIC](https://arxiv.org/abs/2505.16456) (ECCV 2026), generates physically plausible motion from a single image with confidence-guided VLM reasoning.
 * [2026.11] 🔥 New: [Physical and Semantic DPO](https://arxiv.org/abs/2607.16947) (ACM MM 2026), aligns text-to-video models with physical preferences under semantic constraints.
@@ -90,16 +90,16 @@ Our own papers on physics-aware generation. Each one also appears in its categor
 |  | Physics Distilled from Generative Priors | 9 |
 |  | Physics-Aware 4D Scene Generation | 10 |
 |  | Fluids, Fire, Weather and Other Phenomena | 6 |
-| Physics-Aware Video Generation | Simulation-in-the-Loop and Explicit Dynamics | 18 |
+| Physics-Aware Video Generation | Simulation-in-the-Loop and Explicit Dynamics | 19 |
 |  | Physical Control Signals | 7 |
-|  | LLM/VLM Reasoning and Agentic Planning | 20 |
+|  | LLM/VLM Reasoning and Agentic Planning | 21 |
 |  | Physics-Aware Representations, Objectives and Data | 25 |
 |  | Post-Training with Physics Rewards, Preferences and RL | 15 |
 |  | Inference-Time Guidance and Refinement | 6 |
 |  | Embodied, Driving and Human-Object Interaction World Models | 10 |
 | Physics-Aware Image Generation and Editing | | 9 |
 | Physics-Aware Audio Generation | | 5 |
-| Evaluation | Benchmarks | 30 |
+| Evaluation | Benchmarks | 31 |
 |  | Automatic Evaluators, Critics and Detectors | 8 |
 |  | Datasets | 3 |
 | Physical Understanding in Video and World Models | | 18 |
@@ -396,6 +396,8 @@ An explicit simulator or a learned dynamics module produces the motion, and the 
   *Haoze Zhang, Tianyu Huang, Zichen Wan, Xiaowei Jin, Hongzhi Zhang, Hui Li, Wangmeng Zuo*
 - ![ICLR 2026](https://img.shields.io/badge/ICLR%202026-1f6feb?style=flat-square) 🔥 **NewtonGen: Physics-consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics** [[Paper]](https://arxiv.org/abs/2509.21309)<br>
   *Yu Yuan, Xijun Wang, Tharindu Wickremasinghe, Zeeshan Nadir, Bole Ma, Stanley H. Chan*
+- ![SIGGRAPH Asia 2026](https://img.shields.io/badge/SIGGRAPH%20Asia%202026-1f6feb?style=flat-square) 🔥 **VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation** [[Paper]](https://arxiv.org/abs/2512.11061) [[Project]](https://felixomahony.github.io/vdaworld/) [[Code]](https://github.com/ayushtewari/VDAWorld)<br>
+  *Felix O'Mahony, Roberto Cipolla, Ayush Tewari*
 - ![CVPR 2025](https://img.shields.io/badge/CVPR%202025-1f6feb?style=flat-square) 🔥 **PhysAnimator: Physics-Guided Generative Cartoon Animation** [[Paper]](https://arxiv.org/abs/2501.16550)<br>
   *Tianyi Xie, Yiwei Zhao, Ying Jiang, Chenfanfu Jiang*
 - ![ICCV 2025](https://img.shields.io/badge/ICCV%202025-1f6feb?style=flat-square) 🔥 **Learning an Implicit Physics Model for Image-based Fluid Simulation** [[Paper]](https://arxiv.org/abs/2508.08254)<br>
@@ -464,6 +466,8 @@ A language or vision-language model reasons about the physical process (plans, k
   *Xikang Guan, Shaocong Yang, Yanqi Bao, Can Wang, Zheng Gu, Zhengqing Chen, Kai Chen, Jing Huo, Yang Gao*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **CausalMotion: Structured Physical Reasoning as Keyframe and Trajectory Guidance for Training-Free Video Generation** [[Paper]](https://arxiv.org/abs/2606.14317) [[Project]](https://zhuangsh0713.github.io/CausalMotion/)<br>
   *Sihan Zhuang, Xinyuan Chen, Tianfan Xue, Yaohui Wang*
+- ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **K2V: Generative Keyframing For Physically Plausible Video Generation** [[Paper]](https://arxiv.org/abs/2611.17324)<br>
+  *Felix O'Mahony, Daniel Olmeda Reino, Roberto Cipolla, Ayush Tewari*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **NEWTON: Agentic Planning for Physically Grounded Video Generation** [[Paper]](https://arxiv.org/abs/2605.18396)<br>
   *Yuxiang Feng, Juncheng Wang, Chao Xu, Yijie Qian, Huihan Wang, Wenlong Hou, Yang Liu, Baigui Sun, Yong Liu, Shujun Wang*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PhyEvolve: Multi-Agent State-Evolution Planning for Physics-Aware Video Generation** [[Paper]](https://arxiv.org/abs/2610.30717) [[Code]](https://github.com/PhyEvolve/PhyEvolve)<br>
@@ -719,6 +723,8 @@ Benchmarks that test physical commonsense, laws, or consistency of generated ima
   *Juyi Lin, Arash Akbari, Yumei He, Lin Zhao, Haichao Zhang, Arman Akbari, Xingchen Xu, Zoe Y. Lu, Enfu Nan, Hokin Deng, Edmund Yeh, Sarah Ostadabbas, Yun Fu, Jennifer Dy, Pu Zhao, Yanzhi Wang*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PhyRubric: Rubric-Grounded Diagnostic Evaluation of Physical Commonsense in Text-to-Video Generation** [[Paper]](https://arxiv.org/abs/2611.13576) [[Code]](https://github.com/chenyil6/phyRubric)<br>
   *Huiyi Chen, Weitai Kang, Shicheng Fan, Xinshuo Wang, Zhixiang Shen, Yan Yan, Philip S. Yu, Baoxin Li*
+- ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **Physics-IQ Verified** [[Paper]](https://arxiv.org/abs/2606.18943)<br>
+  *Tim Rädsch, Yuki M Asano, Hilde Kuehne, Stefan Bauer, Priyank Jaini, Robert Geirhos, Carsten T. Lüth*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **Physion-Eval: Evaluating Physical Realism in Generated Video via Human Reasoning** [[Paper]](https://arxiv.org/abs/2603.19607)<br>
   *Qin Zhang, Peiyu Jing, Hong-Xing Yu, Fangqiang Ding, Fan Nie, Weimin Wang, Yilun Du, James Zou, Jiajun Wu, Bing Shuai*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements** [[Paper]](https://arxiv.org/abs/2610.26711) [[Code]](https://github.com/KSZG-11/PVBench)<br>
