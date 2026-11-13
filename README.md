@@ -24,10 +24,11 @@ If you know of work that should be listed, or a preprint that has since been acc
 ## News
 
 * [2026.11] 🏆 Our paper [When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation](https://arxiv.org/abs/2607.16947) (PSDPO) received the **Outstanding Paper Award** at ACM MM 2026 (Multimedia Generative and Foundation Models track).
+* [2026.11] 📌 Added: [PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models](https://arxiv.org/abs/2611.16748) (arXiv 2026), by Yuxuan Chen, Xiaojie Li, Hao Chen, Juncheng Ma, Kewei Zhang, Zhongjing Du, Guoqiang Wei, Fangfang Wang, Zhen Dong, Zhiyang Dou, Liming Zhao, Yan Zeng, Jianwei Zhang, Daquan Zhou.
 * [2026.11] 📌 Added: [K2V: Generative Keyframing For Physically Plausible Video Generation](https://arxiv.org/abs/2611.17324) (arXiv 2026), by Felix O'Mahony, Daniel Olmeda Reino, Roberto Cipolla, Ayush Tewari.
 * [2026.11] 📌 Added: [VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation](https://arxiv.org/abs/2512.11061) (SIGGRAPH Asia 2026), by Felix O'Mahony, Roberto Cipolla, Ayush Tewari.
 * [2026.11] 📌 Added: [Physics-IQ Verified](https://arxiv.org/abs/2606.18943) (arXiv 2026), by Tim Rädsch, Yuki M Asano, Hilde Kuehne, Stefan Bauer, Priyank Jaini, Robert Geirhos, Carsten T. Lüth.
-* [2026.11] 🔥 The list has been reorganized around a new taxonomy and now covers **287** papers, **188** of them published at top venues (2024 to 2026).
+* [2026.11] 🔥 The list has been reorganized around a new taxonomy and now covers **288** papers, **188** of them published at top venues (2024 to 2026).
 * [2025.04] 🔥 Our survey **Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC** has been accepted by the IJCAI 2025 Survey Track.
 
 ## Our Work
@@ -91,7 +92,7 @@ Our own papers on physics-aware generation. Each one also appears in its categor
 |  | Physics Distilled from Generative Priors | 9 |
 |  | Physics-Aware 4D Scene Generation | 10 |
 |  | Fluids, Fire, Weather and Other Phenomena | 6 |
-| Physics-Aware Video Generation | Simulation-in-the-Loop and Explicit Dynamics | 19 |
+| Physics-Aware Video Generation | Simulation-in-the-Loop and Explicit Dynamics | 20 |
 |  | Physical Control Signals | 7 |
 |  | LLM/VLM Reasoning and Agentic Planning | 21 |
 |  | Physics-Aware Representations, Objectives and Data | 25 |
@@ -421,6 +422,8 @@ An explicit simulator or a learned dynamics module produces the motion, and the 
   *Shiwei Yang, Yunlong Yu, Zhao Wang, Jungong Han*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PhyRPR: Training-Free Physics-Constrained Video Generation** [[Paper]](https://arxiv.org/abs/2601.09255)<br>
   *Yibo Zhao, Hengjia Li, Xiaofei He, Boxi Wu*
+- ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models** [[Paper]](https://arxiv.org/abs/2611.16748) [[Project]](https://chenyx24.github.io/PhysLoop-site/) [[Code]](https://github.com/DAGroup-PKU/PhysLoop)<br>
+  *Yuxuan Chen, Xiaojie Li, Hao Chen, Juncheng Ma, Kewei Zhang, Zhongjing Du, Guoqiang Wei, Fangfang Wang, Zhen Dong, Zhiyang Dou, Liming Zhao, Yan Zeng, Jianwei Zhang, Daquan Zhou*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **RealWonder: Real-Time Physical Action-Conditioned Video Generation** [[Paper]](https://arxiv.org/abs/2603.05449)<br>
   *Wei Liu, Ziyu Chen, Zizhang Li, Yue Wang, Hong-Xing Yu, Jiajun Wu*
 - ![arXiv 2025](https://img.shields.io/badge/arXiv%202025-b31b1b?style=flat-square) 🔥 **Physics-Grounded Motion Forecasting via Equation Discovery for Trajectory-Guided Image-to-Video Generation** [[Paper]](https://arxiv.org/abs/2507.06830)<br>
