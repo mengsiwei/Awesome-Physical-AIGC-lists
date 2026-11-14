@@ -23,7 +23,7 @@ If you know of work that should be listed, or a preprint that has since been acc
 
 ## News
 
-* [2026.11] 🏆 Our paper [When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation](https://arxiv.org/abs/2607.16947) (PSDPO) received the **Outstanding Paper Award** at ACM MM 2026 (Multimedia Generative and Foundation Models track).
+* [2026.11] 🏆 Our paper [When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation](https://arxiv.org/abs/2607.16947) (PSDPO) received the **Outstanding Paper Award** at ACM MM 2026.
 * [2026.11] 📌 Added: [PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning](https://arxiv.org/abs/2611.16424) (arXiv 2026), by Haofeng Wang, Pengcheng Wen, Ruiqi Li, Yuhao Zhang, Tiange Zhang, Boren Zheng, Xuanyi Liu, Siyu Tao, Danni Yu, Gan Lin, Haocheng Tang, Tianzizhe Guo, Mingyuan Su, Boyuan Chen, Zhongyuan Wang. Listed under the new section *Related: Physical Understanding and Data for Generative Models*.
 * [2026.11] 📌 Added: [PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models](https://arxiv.org/abs/2611.16748) (arXiv 2026), by Yuxuan Chen, Xiaojie Li, Hao Chen, Juncheng Ma, Kewei Zhang, Zhongjing Du, Guoqiang Wei, Fangfang Wang, Zhen Dong, Zhiyang Dou, Liming Zhao, Yan Zeng, Jianwei Zhang, Daquan Zhou.
 * [2026.11] 📌 Added: [K2V: Generative Keyframing For Physically Plausible Video Generation](https://arxiv.org/abs/2611.17324) (arXiv 2026), by Felix O'Mahony, Daniel Olmeda Reino, Roberto Cipolla, Ayush Tewari.
