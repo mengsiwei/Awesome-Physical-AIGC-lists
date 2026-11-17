@@ -24,6 +24,7 @@ If you know of work that should be listed, or a preprint that has since been acc
 ## News
 
 * [2026.11] 🏆 Our paper [When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation](https://arxiv.org/abs/2607.16947) (PSDPO) received the **Outstanding Paper Award** at ACM MM 2026.
+* [2026.11] 📌 Added: [The Flip Test: Video World Models Fail to Learn the World State](https://arxiv.org/abs/2611.19822) (arXiv 2026), by Mi Luo, Lijun Yu, Adams Wei Yu, Ang Cao, Baochen Sun, Ming-Hsuan Yang, Nan Hua, Yuan Hao, Alex Dimakis, Ya Xu, Ed H. Chi, Xuezhi Wang, Yinxiao Liu.
 * [2026.11] 📌 Added: [SciWorldBench: Do Video World Models Really Understand Scientific Experiments?](https://arxiv.org/abs/2611.20899) (arXiv 2026), by Xue Yang, Haonan Cai, Xinyu Hang, Zhimeng Huang, Xuanyi Liu, Chuanmin Jia, Siwei Ma.
 * [2026.11] 📌 Added: [DominoBench: Evaluating Multi-Step Physical Reasoning from Still Images](https://arxiv.org/abs/2611.20385) (arXiv 2026), by Emilio Ferrara. Listed under *Related: Physical Understanding and Data for Generative Models*.
 * [2026.11] 📌 Added: [TelePhysica: Agentic Reconstruction of Physically Interactive Scenes](https://arxiv.org/abs/2611.18078) (arXiv 2026), by Ruiqi Shu, Xufeng Zhan, Yuanzhi Liang, Haibin Huang, Chi Zhang, Xuelong Li.
@@ -32,7 +33,7 @@ If you know of work that should be listed, or a preprint that has since been acc
 * [2026.11] 📌 Added: [K2V: Generative Keyframing For Physically Plausible Video Generation](https://arxiv.org/abs/2611.17324) (arXiv 2026), by Felix O'Mahony, Daniel Olmeda Reino, Roberto Cipolla, Ayush Tewari.
 * [2026.11] 📌 Added: [VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation](https://arxiv.org/abs/2512.11061) (SIGGRAPH Asia 2026), by Felix O'Mahony, Roberto Cipolla, Ayush Tewari.
 * [2026.11] 📌 Added: [Physics-IQ Verified](https://arxiv.org/abs/2606.18943) (arXiv 2026), by Tim Rädsch, Yuki M Asano, Hilde Kuehne, Stefan Bauer, Priyank Jaini, Robert Geirhos, Carsten T. Lüth.
-* [2026.11] 🔥 The list has been reorganized around a new taxonomy and now covers **290** papers, **188** of them published at top venues (2024 to 2026).
+* [2026.11] 🔥 The list has been reorganized around a new taxonomy and now covers **291** papers, **188** of them published at top venues (2024 to 2026).
 * [2025.04] 🔥 Our survey **Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC** has been accepted by the IJCAI 2025 Survey Track.
 
 ## Our Work
@@ -107,7 +108,7 @@ Our own papers on physics-aware generation. Each one also appears in its categor
 |  | Embodied, Driving and Human-Object Interaction World Models | 10 |
 | Physics-Aware Image Generation and Editing | | 9 |
 | Physics-Aware Audio Generation | | 5 |
-| Evaluation | Benchmarks | 32 |
+| Evaluation | Benchmarks | 33 |
 |  | Automatic Evaluators, Critics and Detectors | 8 |
 |  | Datasets | 3 |
 | Physical Understanding in Video and World Models | | 18 |
@@ -744,6 +745,8 @@ Benchmarks that test physical commonsense, laws, or consistency of generated ima
   *Kaiwei Chen, Moran Li, Zhenye Gan, Yabiao Wang, Chengjie Wang, Kexin Zhang, Yong Liu, Jiangning Zhang*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **SciWorldBench: Do Video World Models Really Understand Scientific Experiments?** [[Paper]](https://arxiv.org/abs/2611.20899)<br>
   *Xue Yang, Haonan Cai, Xinyu Hang, Zhimeng Huang, Xuanyi Liu, Chuanmin Jia, Siwei Ma*
+- ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **The Flip Test: Video World Models Fail to Learn the World State** [[Paper]](https://arxiv.org/abs/2611.19822) [[Project]](https://flip-test.github.io/)<br>
+  *Mi Luo, Lijun Yu, Adams Wei Yu, Ang Cao, Baochen Sun, Ming-Hsuan Yang, Nan Hua, Yuan Hao, Alex Dimakis, Ya Xu, Ed H. Chi, Xuezhi Wang, Yinxiao Liu*
 - ![arXiv 2025](https://img.shields.io/badge/arXiv%202025-b31b1b?style=flat-square) 🔥 **Physics IQ Benchmark: Do Generative Video Models Understand Physical Principles?** [[Paper]](https://arxiv.org/abs/2501.09038)<br>
   *Saman Motamed, Laura Culp, Kevin Swersky, Priyank Jaini, Robert Geirhos*
 - ![arXiv 2025](https://img.shields.io/badge/arXiv%202025-b31b1b?style=flat-square) 🔥 **T2VPhysBench: A First-Principles Benchmark for Physical Consistency in Text-to-Video Generation** [[Paper]](https://arxiv.org/abs/2505.00337)<br>
