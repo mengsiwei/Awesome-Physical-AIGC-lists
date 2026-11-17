@@ -24,6 +24,7 @@ If you know of work that should be listed, or a preprint that has since been acc
 ## News
 
 * [2026.11] 🏆 Our paper [When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation](https://arxiv.org/abs/2607.16947) (PSDPO) received the **Outstanding Paper Award** at ACM MM 2026.
+* [2026.11] 📌 Added: [DominoBench: Evaluating Multi-Step Physical Reasoning from Still Images](https://arxiv.org/abs/2611.20385) (arXiv 2026), by Emilio Ferrara. Listed under *Related: Physical Understanding and Data for Generative Models*.
 * [2026.11] 📌 Added: [TelePhysica: Agentic Reconstruction of Physically Interactive Scenes](https://arxiv.org/abs/2611.18078) (arXiv 2026), by Ruiqi Shu, Xufeng Zhan, Yuanzhi Liang, Haibin Huang, Chi Zhang, Xuelong Li.
 * [2026.11] 📌 Added: [PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning](https://arxiv.org/abs/2611.16424) (arXiv 2026), by Haofeng Wang, Pengcheng Wen, Ruiqi Li, Yuhao Zhang, Tiange Zhang, Boren Zheng, Xuanyi Liu, Siyu Tao, Danni Yu, Gan Lin, Haocheng Tang, Tianzizhe Guo, Mingyuan Su, Boyuan Chen, Zhongyuan Wang. Listed under the new section *Related: Physical Understanding and Data for Generative Models*.
 * [2026.11] 📌 Added: [PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models](https://arxiv.org/abs/2611.16748) (arXiv 2026), by Yuxuan Chen, Xiaojie Li, Hao Chen, Juncheng Ma, Kewei Zhang, Zhongjing Du, Guoqiang Wei, Fangfang Wang, Zhen Dong, Zhiyang Dou, Liming Zhao, Yan Zeng, Jianwei Zhang, Daquan Zhou.
@@ -109,7 +110,7 @@ Our own papers on physics-aware generation. Each one also appears in its categor
 |  | Automatic Evaluators, Critics and Detectors | 8 |
 |  | Datasets | 3 |
 | Physical Understanding in Video and World Models | | 18 |
-| Related: Physical Understanding and Data for Generative Models | | 1 |
+| Related: Physical Understanding and Data for Generative Models | | 2 |
 
 ---
 
@@ -828,6 +829,8 @@ Analyses of what video generators, video encoders, and world models know about p
 
 Works that do not generate content themselves but supply physical supervision, annotations, or understanding benchmarks that physics-aware generation can build on. Listed for reference and not counted in the totals above.
 
+- ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **DominoBench: Evaluating Multi-Step Physical Reasoning from Still Images** [[Paper]](https://arxiv.org/abs/2611.20385) [[Project]](https://huggingface.co/datasets/emilioferrara/DominoBench)<br>
+  *Emilio Ferrara*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PhysCapBench: A Cross-Domain Benchmark for Physically Grounded Video Captioning** [[Paper]](https://arxiv.org/abs/2611.16424) [[Project]](https://hfwang2001.github.io/physcapbench-site/) [[Code]](https://github.com/hfwang2001/PhysCapBench)<br>
   *Haofeng Wang, Pengcheng Wen, Ruiqi Li, Yuhao Zhang, Tiange Zhang, Boren Zheng, Xuanyi Liu, Siyu Tao, Danni Yu, Gan Lin, Haocheng Tang, Tianzizhe Guo, Mingyuan Su, Boyuan Chen, Zhongyuan Wang*
 
