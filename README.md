@@ -24,6 +24,7 @@ If you know of work that should be listed, or a preprint that has since been acc
 ## News
 
 * [2026.11] 🏆 Our paper [When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation](https://arxiv.org/abs/2607.16947) (PSDPO) received the **Outstanding Paper Award** at ACM MM 2026.
+* [2026.11] 📌 Added: [What One Sample Cannot See: Why Fewer Denoising Steps Can Score Higher on Physics Benchmarks](https://arxiv.org/abs/2611.25632) (arXiv 2026), by Yutao Li, Chen Wang.
 * [2026.11] 📌 Added: [PhysResponse: Probing the Physics of Video Generation with Controlled Interventions](https://arxiv.org/abs/2611.24419) (arXiv 2026), by Yuhan Li, Shuran Zhang, Haixin Tian, Baonuo Rao, Weipeng Li, Yujia Hou, Zhenyu Wang, Zijun Wang, Luoyang Lin, Lijing Luo, Jiehui Huang, Kaiyuan Yang, Jingbin Tan, Panwen Hu, Xiaodan Liang.
 * [2026.11] 📌 Added: [The Flip Test: Video World Models Fail to Learn the World State](https://arxiv.org/abs/2611.19822) (arXiv 2026), by Mi Luo, Lijun Yu, Adams Wei Yu, Ang Cao, Baochen Sun, Ming-Hsuan Yang, Nan Hua, Yuan Hao, Alex Dimakis, Ya Xu, Ed H. Chi, Xuezhi Wang, Yinxiao Liu.
 * [2026.11] 📌 Added: [SciWorldBench: Do Video World Models Really Understand Scientific Experiments?](https://arxiv.org/abs/2611.20899) (arXiv 2026), by Xue Yang, Haonan Cai, Xinyu Hang, Zhimeng Huang, Xuanyi Liu, Chuanmin Jia, Siwei Ma.
@@ -34,7 +35,7 @@ If you know of work that should be listed, or a preprint that has since been acc
 * [2026.11] 📌 Added: [K2V: Generative Keyframing For Physically Plausible Video Generation](https://arxiv.org/abs/2611.17324) (arXiv 2026), by Felix O'Mahony, Daniel Olmeda Reino, Roberto Cipolla, Ayush Tewari.
 * [2026.11] 📌 Added: [VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation](https://arxiv.org/abs/2512.11061) (SIGGRAPH Asia 2026), by Felix O'Mahony, Roberto Cipolla, Ayush Tewari.
 * [2026.11] 📌 Added: [Physics-IQ Verified](https://arxiv.org/abs/2606.18943) (arXiv 2026), by Tim Rädsch, Yuki M Asano, Hilde Kuehne, Stefan Bauer, Priyank Jaini, Robert Geirhos, Carsten T. Lüth.
-* [2026.11] 🔥 The list has been reorganized around a new taxonomy and now covers **292** papers, **188** of them published at top venues (2024 to 2026).
+* [2026.11] 🔥 The list has been reorganized around a new taxonomy and now covers **293** papers, **188** of them published at top venues (2024 to 2026).
 * [2025.04] 🔥 Our survey **Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC** has been accepted by the IJCAI 2025 Survey Track.
 
 ## Our Work
@@ -110,7 +111,7 @@ Our own papers on physics-aware generation. Each one also appears in its categor
 | Physics-Aware Image Generation and Editing | | 9 |
 | Physics-Aware Audio Generation | | 5 |
 | Evaluation | Benchmarks | 34 |
-|  | Automatic Evaluators, Critics and Detectors | 8 |
+|  | Automatic Evaluators, Critics and Detectors | 9 |
 |  | Datasets | 3 |
 | Physical Understanding in Video and World Models | | 18 |
 | Related: Physical Understanding and Data for Generative Models | | 2 |
@@ -777,6 +778,8 @@ Learned or training-free judges of physical plausibility, usable as metrics or r
   *Yu Cao, Ziquan Liu, Zhensong Zhang, Jiankang Deng, Shaogang Gong, Jifei Song*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement** [[Paper]](https://arxiv.org/abs/2609.03153)<br>
   *Wenzhuo Xu, Yuchen Zhu, Chongjian Ge, Xuan Shen, Jing Shi, Jason Kuen, Yongxin Chen, Molei Tao, Christopher McComb, Noelia Grande Gutiérrez, Jiuxiang Gu*
+- ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **What One Sample Cannot See: Why Fewer Denoising Steps Can Score Higher on Physics Benchmarks** [[Paper]](https://arxiv.org/abs/2611.25632)<br>
+  *Yutao Li, Chen Wang*
 
 ### Datasets
 
