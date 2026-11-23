@@ -24,6 +24,7 @@ If you know of work that should be listed, or a preprint that has since been acc
 ## News
 
 * [2026.11] 🏆 Our paper [When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation](https://arxiv.org/abs/2607.16947) (PSDPO) received the **Outstanding Paper Award** at ACM MM 2026.
+* [2026.11] 📌 Added: [PhysForce: Physics-aware Force Control for Interactive Video World Model](https://arxiv.org/abs/2611.27164) (arXiv 2026), by Xuancheng Xu, Xiaofeng Wang, Yue Ma, Zheng Zhu, Bing-Kun Bao.
 * [2026.11] 📌 Added: [Physical Laws without Physics Loss? Probing Learned Dynamics in Video World Models through Forced Response](https://arxiv.org/abs/2611.25626) (arXiv 2026), by Yutao Li, Chen Wang, Wangmeng Zuo, Hui Li.
 * [2026.11] 📌 Added: [What One Sample Cannot See: Why Fewer Denoising Steps Can Score Higher on Physics Benchmarks](https://arxiv.org/abs/2611.25632) (arXiv 2026), by Yutao Li, Chen Wang.
 * [2026.11] 📌 Added: [PhysResponse: Probing the Physics of Video Generation with Controlled Interventions](https://arxiv.org/abs/2611.24419) (arXiv 2026), by Yuhan Li, Shuran Zhang, Haixin Tian, Baonuo Rao, Weipeng Li, Yujia Hou, Zhenyu Wang, Zijun Wang, Luoyang Lin, Lijing Luo, Jiehui Huang, Kaiyuan Yang, Jingbin Tan, Panwen Hu, Xiaodan Liang.
@@ -36,7 +37,7 @@ If you know of work that should be listed, or a preprint that has since been acc
 * [2026.11] 📌 Added: [K2V: Generative Keyframing For Physically Plausible Video Generation](https://arxiv.org/abs/2611.17324) (arXiv 2026), by Felix O'Mahony, Daniel Olmeda Reino, Roberto Cipolla, Ayush Tewari.
 * [2026.11] 📌 Added: [VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation](https://arxiv.org/abs/2512.11061) (SIGGRAPH Asia 2026), by Felix O'Mahony, Roberto Cipolla, Ayush Tewari.
 * [2026.11] 📌 Added: [Physics-IQ Verified](https://arxiv.org/abs/2606.18943) (arXiv 2026), by Tim Rädsch, Yuki M Asano, Hilde Kuehne, Stefan Bauer, Priyank Jaini, Robert Geirhos, Carsten T. Lüth.
-* [2026.11] 🔥 The list has been reorganized around a new taxonomy and now covers **294** papers, **188** of them published at top venues (2024 to 2026).
+* [2026.11] 🔥 The list has been reorganized around a new taxonomy and now covers **295** papers, **188** of them published at top venues (2024 to 2026).
 * [2025.04] 🔥 Our survey **Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC** has been accepted by the IJCAI 2025 Survey Track.
 
 ## Our Work
@@ -103,7 +104,7 @@ Our own papers on physics-aware generation. Each one also appears in its categor
 |  | Physics-Aware 4D Scene Generation | 10 |
 |  | Fluids, Fire, Weather and Other Phenomena | 6 |
 | Physics-Aware Video Generation | Simulation-in-the-Loop and Explicit Dynamics | 21 |
-|  | Physical Control Signals | 7 |
+|  | Physical Control Signals | 8 |
 |  | LLM/VLM Reasoning and Agentic Planning | 21 |
 |  | Physics-Aware Representations, Objectives and Data | 25 |
 |  | Post-Training with Physics Rewards, Preferences and RL | 15 |
@@ -456,6 +457,8 @@ The generator is conditioned on forces, physical parameters, or physics-derived 
   *Yanxun Li, Hao Wen, Bingze Song, Jiashu Zhu, Aiming Hao, Chubin Chen, Jintao Chen, Jiahong Wu, Xiangxiang Chu, Miao Wang*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PhysFlow: Physics-Aware Optical Flow for Motion Controllable Video Generation** [[Paper]](https://arxiv.org/abs/2609.08215)<br>
   *Cong Wang, Hanxin Zhu, Yonglin Tian, Jiayi Luo, Ruiqi Song, Boyi Sun, Long Chen, Zhibo Chen*
+- ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PhysForce: Physics-aware Force Control for Interactive Video World Model** [[Paper]](https://arxiv.org/abs/2611.27164) [[Project]](https://xuxuancheng0208.github.io/PhysForce_page/)<br>
+  *Xuancheng Xu, Xiaofeng Wang, Yue Ma, Zheng Zhu, Bing-Kun Bao*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control** [[Paper]](https://arxiv.org/abs/2609.17521)<br>
   *Chuhao Chen, Peter Wonka, Chaoyang Wang, Chen Wang, Qiao Feng, Sergey Tulyakov, Lingjie Liu*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **StreamForce: Streaming Video Generation with Streaming Force Control** [[Paper]](https://arxiv.org/abs/2606.07508) [[Project]](https://neu-vi.github.io/StreamForce/)<br>
