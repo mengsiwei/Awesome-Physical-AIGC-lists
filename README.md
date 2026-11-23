@@ -37,7 +37,7 @@ If you know of work that should be listed, or a preprint that has since been acc
 * [2026.11] 📌 Added: [K2V: Generative Keyframing For Physically Plausible Video Generation](https://arxiv.org/abs/2611.17324) (arXiv 2026), by Felix O'Mahony, Daniel Olmeda Reino, Roberto Cipolla, Ayush Tewari.
 * [2026.11] 📌 Added: [VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation](https://arxiv.org/abs/2512.11061) (SIGGRAPH Asia 2026), by Felix O'Mahony, Roberto Cipolla, Ayush Tewari.
 * [2026.11] 📌 Added: [Physics-IQ Verified](https://arxiv.org/abs/2606.18943) (arXiv 2026), by Tim Rädsch, Yuki M Asano, Hilde Kuehne, Stefan Bauer, Priyank Jaini, Robert Geirhos, Carsten T. Lüth.
-* [2026.11] 🔥 The list has been reorganized around a new taxonomy and now covers **295** papers, **188** of them published at top venues (2024 to 2026).
+* [2026.11] 🔥 The list has been reorganized around a new taxonomy and now covers **295** papers, **189** of them published at top venues (2024 to 2026).
 * [2025.04] 🔥 Our survey **Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC** has been accepted by the IJCAI 2025 Survey Track.
 
 ## Our Work
@@ -451,6 +451,8 @@ The generator is conditioned on forces, physical parameters, or physics-derived 
   *Nate Gillman, Yinghua Zhou, Zitian Tang, Evan Luo, Arjan Chakravarthy, Daksh Aggarwal, Michael Freeman, Charles Herrmann, Chen Sun*
 - ![CVPR 2026](https://img.shields.io/badge/CVPR%202026-1f6feb?style=flat-square) 🔥 **PhyCo: Learning Controllable Physical Priors for Generative Motion** [[Paper]](https://arxiv.org/abs/2604.28169)<br>
   *Sriram Narayanan, Ziyu Jiang, Srinivasa Narasimhan, Manmohan Chandraker*
+- ![SIGGRAPH Asia 2026](https://img.shields.io/badge/SIGGRAPH%20Asia%202026-1f6feb?style=flat-square) 🔥 **PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control** [[Paper]](https://arxiv.org/abs/2609.17521) [[Project]](https://czzzzh.github.io/PhysStream/)<br>
+  *Chuhao Chen, Peter Wonka, Chaoyang Wang, Chen Wang, Qiao Feng, Sergey Tulyakov, Lingjie Liu*
 - ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-1f6feb?style=flat-square) 🔥 **Force Prompting: Video Generation Models Can Learn and Generalize Physics-based Control Signals** [[Paper]](https://arxiv.org/abs/2505.19386)<br>
   *Nate Gillman, Charles Herrmann, Michael Freeman, Daksh Aggarwal, Evan Luo, Deqing Sun, Chen Sun*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **Learning Explicit Physical Parameter Control and Benchmarking for Video Generation** [[Paper]](https://arxiv.org/abs/2607.18924)<br>
@@ -459,8 +461,6 @@ The generator is conditioned on forces, physical parameters, or physics-derived 
   *Cong Wang, Hanxin Zhu, Yonglin Tian, Jiayi Luo, Ruiqi Song, Boyi Sun, Long Chen, Zhibo Chen*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PhysForce: Physics-aware Force Control for Interactive Video World Model** [[Paper]](https://arxiv.org/abs/2611.27164) [[Project]](https://xuxuancheng0208.github.io/PhysForce_page/)<br>
   *Xuancheng Xu, Xiaofeng Wang, Yue Ma, Zheng Zhu, Bing-Kun Bao*
-- ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control** [[Paper]](https://arxiv.org/abs/2609.17521)<br>
-  *Chuhao Chen, Peter Wonka, Chaoyang Wang, Chen Wang, Qiao Feng, Sergey Tulyakov, Lingjie Liu*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **StreamForce: Streaming Video Generation with Streaming Force Control** [[Paper]](https://arxiv.org/abs/2606.07508) [[Project]](https://neu-vi.github.io/StreamForce/)<br>
   *Hanhui Wang, Yiming Xie, Haiwen Feng, Zhaoyang Lv, Shenlong Wang, Huaizu Jiang*
 
