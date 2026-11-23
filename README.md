@@ -19,7 +19,7 @@ A curated list of **physics-aware AI-generated content (AIGC)**: generative mode
   <sup>2</sup><a href="http://www.cst.zju.edu.cn/cstenglish/main.htm">School of Software Technology, Zhejiang University</a>
 </p>
 
-If you know of work that should be listed, or a preprint that has since been accepted, please open an issue or a pull request, or email us (siweim@unr.edu, yaweiluo@zju.edu.cn, pingl@unr.edu).
+If you know of work that should be listed, or a preprint that has since been accepted, please open an issue or a pull request, or email us (siweim@unr.edu, pingl@unr.edu).
 
 ## News
 
