@@ -24,6 +24,8 @@ If you know of work that should be listed, or a preprint that has since been acc
 ## News
 
 * [2026.11] 🏆 Our paper [When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation](https://arxiv.org/abs/2607.16947) (PSDPO) received the **Outstanding Paper Award** at ACM MM 2026.
+* [2026.11] 📌 Added: [PSC-Gen: Physical Sequence Conditioning for Video Generation via Agentic Visual Planning](https://arxiv.org/abs/2611.28756) (arXiv 2026), by Wonsik Shin, Jinju Jang, Junhoo Lee, Yeonjin Chang, Jimyeong Kim, Nojun Kwak.
+* [2026.11] 📌 Added: [PhyCoVE: Benchmarking Physical Counterfactual Video Editing across Diverse Material Dynamics](https://arxiv.org/abs/2611.29184) (arXiv 2026), by Conghan Yue, Yuanjie Chen, Yunyan Xiao, Zeyu Peng, Xingsong Ye, Ya Gao, Yanglin Huang, WeiYao Zhang, Yue Han, Zhineng Chen, Yu-Gang Jiang.
 * [2026.11] 📌 Added: [PhysForce: Physics-aware Force Control for Interactive Video World Model](https://arxiv.org/abs/2611.27164) (arXiv 2026), by Xuancheng Xu, Xiaofeng Wang, Yue Ma, Zheng Zhu, Bing-Kun Bao.
 * [2026.11] 📌 Added: [Physical Laws without Physics Loss? Probing Learned Dynamics in Video World Models through Forced Response](https://arxiv.org/abs/2611.25626) (arXiv 2026), by Yutao Li, Chen Wang, Wangmeng Zuo, Hui Li.
 * [2026.11] 📌 Added: [What One Sample Cannot See: Why Fewer Denoising Steps Can Score Higher on Physics Benchmarks](https://arxiv.org/abs/2611.25632) (arXiv 2026), by Yutao Li, Chen Wang.
@@ -37,7 +39,7 @@ If you know of work that should be listed, or a preprint that has since been acc
 * [2026.11] 📌 Added: [K2V: Generative Keyframing For Physically Plausible Video Generation](https://arxiv.org/abs/2611.17324) (arXiv 2026), by Felix O'Mahony, Daniel Olmeda Reino, Roberto Cipolla, Ayush Tewari.
 * [2026.11] 📌 Added: [VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation](https://arxiv.org/abs/2512.11061) (SIGGRAPH Asia 2026), by Felix O'Mahony, Roberto Cipolla, Ayush Tewari.
 * [2026.11] 📌 Added: [Physics-IQ Verified](https://arxiv.org/abs/2606.18943) (arXiv 2026), by Tim Rädsch, Yuki M Asano, Hilde Kuehne, Stefan Bauer, Priyank Jaini, Robert Geirhos, Carsten T. Lüth.
-* [2026.11] 🔥 The list has been reorganized around a new taxonomy and now covers **295** papers, **189** of them published at top venues (2024 to 2026).
+* [2026.11] 🔥 The list has been reorganized around a new taxonomy and now covers **297** papers, **189** of them published at top venues (2024 to 2026).
 * [2025.04] 🔥 Our survey **Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC** has been accepted by the IJCAI 2025 Survey Track.
 
 ## Our Work
@@ -105,14 +107,14 @@ Our own papers on physics-aware generation. Each one also appears in its categor
 |  | Fluids, Fire, Weather and Other Phenomena | 6 |
 | Physics-Aware Video Generation | Simulation-in-the-Loop and Explicit Dynamics | 21 |
 |  | Physical Control Signals | 8 |
-|  | LLM/VLM Reasoning and Agentic Planning | 21 |
+|  | LLM/VLM Reasoning and Agentic Planning | 22 |
 |  | Physics-Aware Representations, Objectives and Data | 25 |
 |  | Post-Training with Physics Rewards, Preferences and RL | 15 |
 |  | Inference-Time Guidance and Refinement | 6 |
 |  | Embodied, Driving and Human-Object Interaction World Models | 10 |
 | Physics-Aware Image Generation and Editing | | 9 |
 | Physics-Aware Audio Generation | | 5 |
-| Evaluation | Benchmarks | 34 |
+| Evaluation | Benchmarks | 35 |
 |  | Automatic Evaluators, Critics and Detectors | 9 |
 |  | Datasets | 3 |
 | Physical Understanding in Video and World Models | | 19 |
@@ -500,6 +502,8 @@ A language or vision-language model reasons about the physical process (plans, k
   *Minh-Loi Nguyen, Xuan-Vu Le, Trung-Nghia Le, Tam V. Nguyen, Minh-Triet Tran, Thanh-Toan Do*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PhysMRV: Physical Memory Retrieval and Verification for Physics Plausibility Reasoning** [[Paper]](https://arxiv.org/abs/2607.10190)<br>
   *Wenyuan Wang, Lianyu Hu, Hao Wang, Yang Liu*
+- ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PSC-Gen: Physical Sequence Conditioning for Video Generation via Agentic Visual Planning** [[Paper]](https://arxiv.org/abs/2611.28756)<br>
+  *Wonsik Shin, Jinju Jang, Junhoo Lee, Yeonjin Chang, Jimyeong Kim, Nojun Kwak*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System** [[Paper]](https://arxiv.org/abs/2607.27380)<br>
   *Haodong Li, Tianfei Ren, Xiaoxiao Ma, Chunmei Qing, Zhen Fang, Sipeng He, Ziyu Guo, Haoyu Wu, Juanxi Tian, Yihang Zou, Ruichuan An, Dongzhi Jiang, Boxue Yang, Ji Xie, Xu Huang, Wenhao Yan, Jialv Zou, Zhengrong Yue, Yaxin Luo, Xiaotong Li, Yuzhu Wang, Junyan Ye, Jinjing Zhao, Zehui Chen, Lin Chen, Renye Yan, Feng Zhao, Pheng-Ann Heng*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **VIPER: Visual In-Context Physics Reasoning for Physically Plausible Video Generation** [[Paper]](https://arxiv.org/abs/2607.23472)<br>
@@ -739,6 +743,8 @@ Benchmarks that test physical commonsense, laws, or consistency of generated ima
   *León Begiristain, Olaf Dünkel, Adam Kortylewski*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **MME-CoF-Pro: Evaluating Reasoning Coherence in Video Generative Models with Text and Visual Hints** [[Paper]](https://arxiv.org/abs/2603.20194)<br>
   *Yu Qi, Xinyi Xu, Ziyu Guo, Siyuan Ma, Renrui Zhang, Xinyan Chen, Ruichuan An, Ruofan Xing, Jiayi Zhang, Haojie Huang, Pheng-Ann Heng, Jonathan Tremblay, Lawson L. S. Wong*
+- ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PhyCoVE: Benchmarking Physical Counterfactual Video Editing across Diverse Material Dynamics** [[Paper]](https://arxiv.org/abs/2611.29184) [[Project]](https://phycove.github.io) [[Code]](https://github.com/Hammour-steak/PhyCoVE)<br>
+  *Conghan Yue, Yuanjie Chen, Yunyan Xiao, Zeyu Peng, Xingsong Ye, Ya Gao, Yanglin Huang, WeiYao Zhang, Yue Han, Zhineng Chen, Yu-Gang Jiang*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PhyGround: Benchmarking Physical Reasoning in Generative World Models** [[Paper]](https://arxiv.org/abs/2605.10806)<br>
   *Juyi Lin, Arash Akbari, Yumei He, Lin Zhao, Haichao Zhang, Arman Akbari, Xingchen Xu, Zoe Y. Lu, Enfu Nan, Hokin Deng, Edmund Yeh, Sarah Ostadabbas, Yun Fu, Jennifer Dy, Pu Zhao, Yanzhi Wang*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PhyRubric: Rubric-Grounded Diagnostic Evaluation of Physical Commonsense in Text-to-Video Generation** [[Paper]](https://arxiv.org/abs/2611.13576) [[Code]](https://github.com/chenyil6/phyRubric)<br>
