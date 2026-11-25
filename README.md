@@ -24,6 +24,9 @@ If you know of work that should be listed, or a preprint that has since been acc
 ## News
 
 * [2026.11] 🏆 Our paper [When Physical Preferences Meet Semantic Constraints: Physical and Semantic Direct Preference Optimization for Text-to-Video Generation](https://arxiv.org/abs/2607.16947) (PSDPO) received the **Outstanding Paper Award** at ACM MM 2026.
+* [2026.11] 📌 Added: [SPAR: Self-Referenced World-Model Rewards for Physical Alignment in Video Generation](https://arxiv.org/abs/2611.31958) (arXiv 2026), by Junyi Zhang, Qichao Wang, Wenze Qian, Yuanchuan Wang, Min Zhang.
+* [2026.11] 📌 Added: [Get the Next Moment Right: Short-Term Event Planning for Physically Plausible Video Generation](https://arxiv.org/abs/2611.32337) (arXiv 2026), by Hao Liu, Xiang Tang, Ruotong Li, Xiaopeng Fan, Yujiu Yang.
+* [2026.11] 📌 Added: [PhysMend: Verification-Guided Program Refinement for Physics-Aware Video Generation](https://arxiv.org/abs/2611.32821) (arXiv 2026), by Meilong Xu, Ziyi Zhao, Bhagyashree Puranik, Shayda Moezzi, Yixiao Zhang, Kushan Thakkar.
 * [2026.11] 📌 Added: [PSC-Gen: Physical Sequence Conditioning for Video Generation via Agentic Visual Planning](https://arxiv.org/abs/2611.28756) (arXiv 2026), by Wonsik Shin, Jinju Jang, Junhoo Lee, Yeonjin Chang, Jimyeong Kim, Nojun Kwak.
 * [2026.11] 📌 Added: [PhyCoVE: Benchmarking Physical Counterfactual Video Editing across Diverse Material Dynamics](https://arxiv.org/abs/2611.29184) (arXiv 2026), by Conghan Yue, Yuanjie Chen, Yunyan Xiao, Zeyu Peng, Xingsong Ye, Ya Gao, Yanglin Huang, WeiYao Zhang, Yue Han, Zhineng Chen, Yu-Gang Jiang.
 * [2026.11] 📌 Added: [PhysForce: Physics-aware Force Control for Interactive Video World Model](https://arxiv.org/abs/2611.27164) (arXiv 2026), by Xuancheng Xu, Xiaofeng Wang, Yue Ma, Zheng Zhu, Bing-Kun Bao.
@@ -39,7 +42,7 @@ If you know of work that should be listed, or a preprint that has since been acc
 * [2026.11] 📌 Added: [K2V: Generative Keyframing For Physically Plausible Video Generation](https://arxiv.org/abs/2611.17324) (arXiv 2026), by Felix O'Mahony, Daniel Olmeda Reino, Roberto Cipolla, Ayush Tewari.
 * [2026.11] 📌 Added: [VDAWorld: World Modelling via VLM-Directed Abstraction and Simulation](https://arxiv.org/abs/2512.11061) (SIGGRAPH Asia 2026), by Felix O'Mahony, Roberto Cipolla, Ayush Tewari.
 * [2026.11] 📌 Added: [Physics-IQ Verified](https://arxiv.org/abs/2606.18943) (arXiv 2026), by Tim Rädsch, Yuki M Asano, Hilde Kuehne, Stefan Bauer, Priyank Jaini, Robert Geirhos, Carsten T. Lüth.
-* [2026.11] 🔥 The list has been reorganized around a new taxonomy and now covers **297** papers, **189** of them published at top venues (2024 to 2026).
+* [2026.11] 🔥 The list has been reorganized around a new taxonomy and now covers **300** papers, **189** of them published at top venues (2024 to 2026).
 * [2025.04] 🔥 Our survey **Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC** has been accepted by the IJCAI 2025 Survey Track.
 
 ## Our Work
@@ -105,12 +108,12 @@ Our own papers on physics-aware generation. Each one also appears in its categor
 |  | Physics Distilled from Generative Priors | 9 |
 |  | Physics-Aware 4D Scene Generation | 10 |
 |  | Fluids, Fire, Weather and Other Phenomena | 6 |
-| Physics-Aware Video Generation | Simulation-in-the-Loop and Explicit Dynamics | 21 |
+| Physics-Aware Video Generation | Simulation-in-the-Loop and Explicit Dynamics | 22 |
 |  | Physical Control Signals | 8 |
-|  | LLM/VLM Reasoning and Agentic Planning | 22 |
+|  | LLM/VLM Reasoning and Agentic Planning | 23 |
 |  | Physics-Aware Representations, Objectives and Data | 25 |
 |  | Post-Training with Physics Rewards, Preferences and RL | 15 |
-|  | Inference-Time Guidance and Refinement | 6 |
+|  | Inference-Time Guidance and Refinement | 7 |
 |  | Embodied, Driving and Human-Object Interaction World Models | 10 |
 | Physics-Aware Image Generation and Editing | | 9 |
 | Physics-Aware Audio Generation | | 5 |
@@ -438,6 +441,8 @@ An explicit simulator or a learned dynamics module produces the motion, and the 
   *Yibo Zhao, Hengjia Li, Xiaofei He, Boxi Wu*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models** [[Paper]](https://arxiv.org/abs/2611.16748) [[Project]](https://chenyx24.github.io/PhysLoop-site/) [[Code]](https://github.com/DAGroup-PKU/PhysLoop)<br>
   *Yuxuan Chen, Xiaojie Li, Hao Chen, Juncheng Ma, Kewei Zhang, Zhongjing Du, Guoqiang Wei, Fangfang Wang, Zhen Dong, Zhiyang Dou, Liming Zhao, Yan Zeng, Jianwei Zhang, Daquan Zhou*
+- ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **PhysMend: Verification-Guided Program Refinement for Physics-Aware Video Generation** [[Paper]](https://arxiv.org/abs/2611.32821)<br>
+  *Meilong Xu, Ziyi Zhao, Bhagyashree Puranik, Shayda Moezzi, Yixiao Zhang, Kushan Thakkar*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **RealWonder: Real-Time Physical Action-Conditioned Video Generation** [[Paper]](https://arxiv.org/abs/2603.05449)<br>
   *Wei Liu, Ziyu Chen, Zizhang Li, Yue Wang, Hong-Xing Yu, Jiajun Wu*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **TelePhysica: Agentic Reconstruction of Physically Interactive Scenes** [[Paper]](https://arxiv.org/abs/2611.18078) [[Project]](https://interactive4d.vercel.app/)<br>
@@ -488,6 +493,8 @@ A language or vision-language model reasons about the physical process (plans, k
   *Xikang Guan, Shaocong Yang, Yanqi Bao, Can Wang, Zheng Gu, Zhengqing Chen, Kai Chen, Jing Huo, Yang Gao*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **CausalMotion: Structured Physical Reasoning as Keyframe and Trajectory Guidance for Training-Free Video Generation** [[Paper]](https://arxiv.org/abs/2606.14317) [[Project]](https://zhuangsh0713.github.io/CausalMotion/)<br>
   *Sihan Zhuang, Xinyuan Chen, Tianfan Xue, Yaohui Wang*
+- ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **Get the Next Moment Right: Short-Term Event Planning for Physically Plausible Video Generation** [[Paper]](https://arxiv.org/abs/2611.32337) [[Project]](https://xdlbw.github.io/STEP/)<br>
+  *Hao Liu, Xiang Tang, Ruotong Li, Xiaopeng Fan, Yujiu Yang*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **K2V: Generative Keyframing For Physically Plausible Video Generation** [[Paper]](https://arxiv.org/abs/2611.17324)<br>
   *Felix O'Mahony, Daniel Olmeda Reino, Roberto Cipolla, Ayush Tewari*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **NEWTON: Agentic Planning for Physically Grounded Video Generation** [[Paper]](https://arxiv.org/abs/2605.18396)<br>
@@ -621,6 +628,8 @@ Training-free steering at sampling time: noise selection, guidance, scoring, or 
   *Woojung Han, Seil Kang, Youngjun Jun, Min-Hung Chen, Fu-En Yang, Seong Jae Hwang*
 - ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **Seeking Physics in Diffusion Noise** [[Paper]](https://arxiv.org/abs/2603.14294) [[Project]](https://thegreatestcj.github.io/Physics-in-Noise)<br>
   *Chujun Tang, Lei Zhong, Fangqiang Ding*
+- ![arXiv 2026](https://img.shields.io/badge/arXiv%202026-b31b1b?style=flat-square) 🔥 **SPAR: Self-Referenced World-Model Rewards for Physical Alignment in Video Generation** [[Paper]](https://arxiv.org/abs/2611.31958) [[Project]](https://gavin-jy.github.io/spar-page/)<br>
+  *Junyi Zhang, Qichao Wang, Wenze Qian, Yuanchuan Wang, Min Zhang*
 
 ### Embodied, Driving and Human-Object Interaction World Models
 
